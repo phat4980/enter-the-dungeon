@@ -35,6 +35,3 @@
 
 ### Hệ thống màn chơi và các scene:
 ![Imgur](https://i.imgur.com/de2ponc.png)
-
-
-[Sơ đồ từng Chamber](https://drive.google.com/file/d/1NMAKiJlCoooQzqXneosSSOAuTvSE_SlM/view)

@@ -1,0 +1,5329 @@
+fileFormatVersion: 2
+guid: d5fe647af9990d147b905bf35c11ed04
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: statue_15
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 882
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2c501935fb7b64b9c94c12146c3f28
+      internalID: -1041807951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj11
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 2038
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab472f8a410a648a51bbfdf8622562
+      internalID: 943875758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj12
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2038
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c3f2798d459c4091f538e7b575986
+      internalID: -122733824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_symbol
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 2022
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfcc01ee8915ec4696445b4da293ba7
+      internalID: 1546288901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj13
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2040
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef44d1337ca855541b3213248fcb61fb
+      internalID: -1994795500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_6
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 2040
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e559215813a934a92935a3d4e9365e
+      internalID: 321560111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj2
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1976
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24.5, y: -5}
+        - {x: -24.5, y: 17}
+        - {x: -22.5, y: 19}
+        - {x: -20.5, y: 18}
+        - {x: -20.5, y: 14}
+        - {x: -7.5, y: 27}
+        - {x: -7.5, y: 31}
+        - {x: -5.5, y: 33}
+        - {x: -3.5, y: 31}
+        - {x: -3.5, y: 26}
+        - {x: 20.5, y: 3}
+        - {x: 21.5, y: 8}
+        - {x: 24.5, y: 7}
+        - {x: 24.5, y: -17}
+        - {x: 5.5, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceb45f99ad3a7448aeb66890597ddd8
+      internalID: 1060242198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_0
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1973
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b750c62127e3944fb0cac722fb2c5cd
+      internalID: -104030060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_1
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1962
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97393ff66baf26c4ab010b438808555b
+      internalID: -1679159711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_chair_1
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2013
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba19295e858b2742a0be90ff354f538
+      internalID: 2101856157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial_symbol
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2022
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3063bd83a1596834eb5e7ff8ce337c05
+      internalID: 404537367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj8
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2022
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7edc5e9d626f9458b85b8e8780639e
+      internalID: 950102621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_7
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 2022
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1b1014ab02e2e41a624f04a4f24dd6
+      internalID: 15397214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj9
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 2022
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472586bee3641246bd95eaa5a268ae4
+      internalID: -338012010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj10
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 2022
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49b120bd59b6444890e5e4a0a38cc5e
+      internalID: -1173909841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_17
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2031
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b64ed7062066cb49aedf55db4f007c1
+      internalID: 1144918600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_18
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 2031
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9afc3508f67944bb65f2941ebf2517
+      internalID: -2018476298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_19
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 2031
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59181730c5ecb5c4fbb72b14d8f52e2a
+      internalID: -261789101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_20
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2031
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2437a9b4ff47064b9577d051babdc4d
+      internalID: 1758370224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_21
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 2031
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7736a76b23839943aa2aa00ac46eba4
+      internalID: -174898767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_22
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 2031
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24abb3abd6dc764eb30d9e2d1375bef
+      internalID: 391336540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_23
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 2031
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc7538b20594ad45bcbb24bb3c1e63a
+      internalID: 1272856450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_24
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 2015
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d75477a9199b248ad9219937ac9472
+      internalID: -85533172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_26
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 2022
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b79db34fc5f5e249b0a56e749dd871e
+      internalID: -765284803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_27
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2022
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a8b807c08e5e340bd572a2c46b59eb
+      internalID: -78563986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_28
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 2022
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ced5c235ebad448828ebb1824cb987
+      internalID: 330917743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_29
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 2022
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23822c2a511fdbd40b0dcd0656f7585a
+      internalID: 310277922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_30
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2022
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ce938f6bbb78a449a45fae3a2a37e0
+      internalID: -63893073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_31
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2022
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4f053b98a5ebd42bd9a7b83c2dd5a4
+      internalID: -940896226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_32
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 2022
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a0e90966088e14da056a572bae312f
+      internalID: 1942855454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_abyss_7
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1822
+        width: 160
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 48, y: -69}
+        - {x: 30, y: -51}
+        - {x: -31, y: -51}
+        - {x: -80, y: -100}
+        - {x: -79, y: 52}
+        - {x: -33, y: 100}
+        - {x: 80, y: 100}
+        - {x: 80, y: 67}
+        - {x: 64, y: 51}
+        - {x: 64, y: -68}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42a87eebb2e1fd48af7b37ee8f57c05
+      internalID: -794765913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_abyss_9
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1854
+        width: 48
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a493e98b5ec0b3e42a035b097fef0f03
+      internalID: 449462642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_abyss_8
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1822
+        width: 161
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 31.5, y: -51}
+        - {x: -30.5, y: -51}
+        - {x: -46.5, y: -67}
+        - {x: -63.5, y: -68}
+        - {x: -62.5, y: 51}
+        - {x: -80.5, y: 68}
+        - {x: -80.5, y: 100}
+        - {x: -64.5, y: 85}
+        - {x: -46.5, y: 84}
+        - {x: -30.5, y: 100}
+        - {x: 31.5, y: 100}
+        - {x: 80.5, y: 51}
+        - {x: 80.5, y: -100}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c2cbbea05789a40939437baf1e5ba2
+      internalID: 755551989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj1
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1992
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -13}
+        - {x: -8, y: 15}
+        - {x: 8, y: 15}
+        - {x: 8, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49383775527c6046957d376f1346aa9
+      internalID: 867937003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj14
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1999
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68801ffcfc531844c87ad7d512393676
+      internalID: 1684348588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_chair_2
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1988
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a6fad08a539544d81d03693eef4a10
+      internalID: -2070452503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_50
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1996
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593e19814c3ac66499439641b28815b6
+      internalID: -1940973309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_53
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1982
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ecf4cd58b18ac4193b8ff61f7aa306
+      internalID: -2098559962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj18
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1976
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493090c3b112d764c94da32117c273da
+      internalID: 1721870898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj36
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1956
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae7e36931f605d43b6d579f741744c3
+      internalID: 1588063693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_6
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1957
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837873af82e37ee4d9cbfd3d465ec8be
+      internalID: 749305389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_59
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1971
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff383684e0bbbdf449065bbcf6817c26
+      internalID: -1141617402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_wall_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1704
+        width: 240
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -85}
+        - {x: -11, y: -93}
+        - {x: -40, y: -93}
+        - {x: -42, y: -85}
+        - {x: -71, y: -85}
+        - {x: -120, y: -133}
+        - {x: -120, y: 74}
+        - {x: -72, y: 123}
+        - {x: -41, y: 123}
+        - {x: -39, y: 133}
+        - {x: -7, y: 133}
+        - {x: -9, y: 123}
+        - {x: 23, y: 124}
+        - {x: 25, y: 73}
+        - {x: 120, y: 73}
+        - {x: 120, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8946ec359d3d02243a264a721c4a4602
+      internalID: 1448577975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_wall_10
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1704
+        width: 240
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 72, y: -85.5}
+        - {x: 39, y: -84.5}
+        - {x: 39, y: -92.5}
+        - {x: 9, y: -92.5}
+        - {x: 8, y: -85.5}
+        - {x: -120, y: -85.5}
+        - {x: -120, y: 72.5}
+        - {x: -25, y: 71.5}
+        - {x: -24, y: 124.5}
+        - {x: 6, y: 124.5}
+        - {x: 4, y: 133.5}
+        - {x: 37, y: 133.5}
+        - {x: 40, y: 125.5}
+        - {x: 72, y: 123.5}
+        - {x: 119, y: 74.5}
+        - {x: 120, y: -133.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18690a82ee7cb8547ba1e534eb234674
+      internalID: 1419217230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_63
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1960
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7efe13d760dd0c4f89aed50fdfa2d3f
+      internalID: -546056118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj17
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1962
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01769c2057fc8434b88becf20299d8c8
+      internalID: 220742210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj42
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1964
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8037e50ca6c4847a7e42dc4ae0ff08
+      internalID: 1599944168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1704
+        width: 48
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed0c18cbdec6824e97ff7c139c660a8
+      internalID: -1985618004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj37
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1946
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a152b9f0ad42f04c8c2bb64c45f3693
+      internalID: -1246109442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj38
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1944
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef88f2b8a3a0cd45865eab18ad3650d
+      internalID: -1021324791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_71
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1913
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231ea6339d865224ea911e1767b3c351
+      internalID: 1933149875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj43
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1945
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec884604a7f5dde429668270395eeacc
+      internalID: -1905126363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj19
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1947
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbb9c4a110519c47bac4186fbd491cb
+      internalID: -122296052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_76
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1947
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f061036113bf0124195a3b02d962cdea
+      internalID: 1367118466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_77
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1934
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57fe6a15a3f0ea45b6f47e57a410e41
+      internalID: 2093391169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj20
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1930
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eb78e5699489745be80a8017e26633
+      internalID: 1818448543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj21
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1928
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd98c36157dccc545b850d6bf5a9868c
+      internalID: 546511296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_80
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1929
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ea65d6ce623e14e951d0a522a94477
+      internalID: 1410725228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj39
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1923
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdabf16e4b89394fa7c09af338ee41c
+      internalID: -310122716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj41
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1916
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bda6fc4cb6dab4e945cb209f3ae673
+      internalID: 1917783440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj44
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1913
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70422aebd4d564244b31cfce51ebbd00
+      internalID: -381611209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj22
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1912
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d6dbaa15366f4418fc1f389ed01444
+      internalID: -402023137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj35
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1912
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dc182d28b80d74cb923b1a2c041793
+      internalID: 1606371069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj40
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1916
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2006b4d14b176ee4bb0b3ef7daa1b1ea
+      internalID: 1900764836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_2
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1864
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cadc6872feb7143be82da630e9283d
+      internalID: 663828214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_90
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1893
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1c19c71dfcab5439820f1aefca0259
+      internalID: 484461043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staircase_3
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1869
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11.5, y: 16}
+        - {x: -11.5, y: 21}
+        - {x: 11.5, y: 21}
+        - {x: 11.5, y: 16}
+      - - {x: -11.5, y: -21}
+        - {x: -11.5, y: -16}
+        - {x: 11.5, y: -16}
+        - {x: 11.5, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb08768ac2bc9943915e2b2068a9319
+      internalID: 2115780523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_6
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1901
+        width: 315
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bf6f725005e494898ed9a8b685c7c7
+      internalID: 2132155158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj23
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1894
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d31f7e8fccf0b48999224f2478b7b7
+      internalID: -265272285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj24
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1892
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f16647fc0ebaf946bae7aa4bf63a16e
+      internalID: -1771867977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_97
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1866
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b128464467d5054d8e09e429997bac0
+      internalID: 2091448432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj25
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1875
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93173dea01162b846b4887360f1c4502
+      internalID: -1596232597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj26
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1875
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b44c1f0354fd4d488b6737ead5951c0
+      internalID: 507012723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_blockroom
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1822
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d936fb01f7f82741a82d390ad0f7c1c
+      internalID: 588361943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_7
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1752
+        width: 315
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83a098e6b4a16446bc4a22929e19c6a
+      internalID: -223231444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj29
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1855
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536b6f7c057ee63458a827416772bfd7
+      internalID: -571428418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj27
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1855
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d89b32636098a74991843d2b6003ce6
+      internalID: -1991274153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_106
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1839
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6770ea1fdcdfd4fb161f570a29043d
+      internalID: -1277601497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_108
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1835
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fb52a1af4bf534981b6bb1aa3b6b13
+      internalID: 2072210304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj28
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1833
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51164c6a4ec29743bc939dd9ec1dd87
+      internalID: -2047726454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_111
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1812
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecd420f95de91e43904accbcbac3dcb
+      internalID: 573694829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj30
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1813
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750895d21ebde004c84be81dbb195174
+      internalID: 1282666509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj31
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1813
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5651567c29491fe4583a2a0bb5c055e0
+      internalID: -382074575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_13
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1810
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b87808f24dfd3b479743207e0bf0d2e
+      internalID: 2034289597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_116
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1752
+        width: 350
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44023c474651e9047a3efa2698cb6647
+      internalID: -2049716478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_117
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1752
+        width: 334
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef701efe8a564c4084ef3452cddf60f
+      internalID: 1833744214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_119
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1791
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91269c7656876ee41af90330e8c2107c
+      internalID: -967161981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_120
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1785
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf44484f0235454d8e6b58d6f8ac0ec
+      internalID: 1195104254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_8
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1790
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9553f8729cfc04f8b22ff3534f77cb
+      internalID: 1197035640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj32
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1791
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2289e74337194541ad18a7464677009
+      internalID: -28267194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_9
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1770
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f75bb705eb8a344a24a8822df8ffde
+      internalID: -1256287024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj33
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1769
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c265abf85e09a4692f5971bf21b9b2
+      internalID: 245889203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj34
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1769
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7566826b6399d5644be468bda80ea6e5
+      internalID: -501788253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_128
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1758
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416dc86b983940e4a9108b2cb8a8d1fb
+      internalID: 2007762588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_10
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1750
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47747450c433a3478eb8f26a46e5b63
+      internalID: -7359170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_16
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1747
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8c27eaf185c93478ddfdf7936f6349
+      internalID: 574176260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_4
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1704
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75db47a34106e144aa2cf16d0a9fbfe
+      internalID: -485291124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_145
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1731
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebcc19b3f769b8479600f34001e18dd
+      internalID: 945141728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_11
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1727
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d192ecbc5718d9b47a04201a0b1b5898
+      internalID: 950310735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_ground_4
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1414
+        width: 864
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c300ac74adacb40a10ef401cc8d438
+      internalID: 1394798145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_5
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1702
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b45382cdd77d9f40adf86ac82946aad
+      internalID: -1487079512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_150
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1704
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e61dc3106f9d940816f3c7c43ea1fd
+      internalID: 801199530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_12
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1704
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931d858fa52834c42a4025fbc5f6037f
+      internalID: -302969599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_ground_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1366
+        width: 864
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5100180c79e3158468dac8de2c4d70a4
+      internalID: 110372074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staircase_1
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1427
+        width: 260
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3449c2ff8efead4daaf54c8d2801990
+      internalID: 2096522697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_wall_7
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1557
+        width: 48
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -23.5}
+        - {x: -24, y: 71.5}
+        - {x: 24, y: 23.5}
+        - {x: 24, y: -71.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd681ed459cf43645b0cc61905a6527d
+      internalID: -1190802907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_wall_8
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1412
+        width: 48
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -71.5}
+        - {x: -24, y: 23.5}
+        - {x: 24, y: 71.5}
+        - {x: 24, y: -23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd1c74acd0760341a932f0e9d7a23e0
+      internalID: 1044844260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_ground_0
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1026
+        width: 768
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0380b24a014744b44a1008d8421e8303
+      internalID: 1406390608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_ground_
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1255
+        width: 289
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32.5, y: -77.5}
+        - {x: -34.5, y: -73.5}
+        - {x: -53.5, y: -67.5}
+        - {x: -80.5, y: -53.5}
+        - {x: -108.5, y: -28.5}
+        - {x: -122.5, y: -11.5}
+        - {x: -139.5, y: 27.5}
+        - {x: -143.5, y: 47.5}
+        - {x: -144.5, y: 73.5}
+        - {x: -131.5, y: 73.5}
+        - {x: -131.5, y: 77.5}
+        - {x: 127.5, y: 77.5}
+        - {x: 129.5, y: 72.5}
+        - {x: 144.5, y: 74.5}
+        - {x: 144.5, y: 47.5}
+        - {x: 138.5, y: 28.5}
+        - {x: 127.5, y: 0.5}
+        - {x: 117.5, y: -17.5}
+        - {x: 103.5, y: -32.5}
+        - {x: 88.5, y: -46.5}
+        - {x: 74.5, y: -56.5}
+        - {x: 49.5, y: -68.5}
+        - {x: 30.5, y: -73.5}
+        - {x: 30.5, y: -77.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80669c6e69b162a429792dd9565f8e53
+      internalID: -2125064831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staircase_2
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1376
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -16}
+        - {x: -32, y: 16}
+        - {x: 32, y: 16}
+        - {x: 32, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2815a75b357181742b2e694e344b03b2
+      internalID: 1603148952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_159
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1377
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04948f7208ff5549b954cffddc2e994
+      internalID: 2004908216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_ground_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1028
+        width: 864
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 58, y: -88}
+        - {x: 57, y: -103}
+        - {x: 46, y: -103}
+        - {x: 48, y: -168}
+        - {x: -48, y: -168}
+        - {x: -50, y: -91}
+        - {x: -432, y: -91}
+        - {x: -432, y: 102}
+        - {x: -415, y: 104}
+        - {x: -404, y: 94}
+        - {x: -389, y: 94}
+        - {x: -375, y: 106}
+        - {x: -360, y: 104}
+        - {x: -317, y: 61}
+        - {x: -288, y: 57}
+        - {x: -258, y: 56}
+        - {x: -240, y: 74}
+        - {x: -239, y: 156}
+        - {x: -225, y: 168}
+        - {x: -194, y: 168}
+        - {x: -177, y: 154}
+        - {x: -176, y: 73}
+        - {x: -108, y: 8}
+        - {x: -48, y: 9}
+        - {x: -32, y: 25}
+        - {x: -32, y: 58}
+        - {x: -26, y: 57}
+        - {x: -27, y: 50}
+        - {x: -20, y: 48}
+        - {x: 6, y: 47}
+        - {x: 27, y: 49}
+        - {x: 28, y: 56}
+        - {x: 34, y: 56}
+        - {x: 33, y: 26}
+        - {x: 54, y: 7}
+        - {x: 111, y: 6}
+        - {x: 176, y: 71}
+        - {x: 176, y: 152}
+        - {x: 192, y: 168}
+        - {x: 224, y: 168}
+        - {x: 238, y: 155}
+        - {x: 240, y: 75}
+        - {x: 260, y: 55}
+        - {x: 289, y: 58}
+        - {x: 325, y: 23}
+        - {x: 368, y: 24}
+        - {x: 403, y: 58}
+        - {x: 432, y: 59}
+        - {x: 432, y: -88}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d3042c668a4694cada9cffb78f841c
+      internalID: 1641865563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_10
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1228
+        width: 64
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1016d0b5eb1ca7043969dd2333a8e787
+      internalID: 249506439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_8
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1311
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f93ffb13d6b20b478b0dc7c25016115
+      internalID: -1117805426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_ground_5
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 774
+        width: 260
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -130, y: -240}
+        - {x: -130, y: 240}
+        - {x: 126, y: 239}
+        - {x: 126, y: 107}
+        - {x: 7, y: 108}
+        - {x: 6, y: -110}
+        - {x: 126, y: -110}
+        - {x: 126, y: -240}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178970645c14d3a44ba3121ee7bb2256
+      internalID: 94843714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_14
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1002
+        width: 77
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e0d71434a8d754bbb3ef68f4ba1d63
+      internalID: -62157001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1211
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184c583789c17ad4a9e8df60d424bc7f
+      internalID: 758910658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_11
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1159
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7330d1ca98ab14abdd48b272caf3e4
+      internalID: 1938828142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_12
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1070
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39807420cd5da81478e5388d5fba6303
+      internalID: -269944835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_13
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 999
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1322566328a7812468ff591ade577ede
+      internalID: 2124490908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_wall_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 682
+        width: 182
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -72.36046, y: -170.34058}
+        - {x: -72.36046, y: 150.21704}
+        - {x: 9.392487, y: 150.21704}
+        - {x: 51.797638, y: 148.9859}
+        - {x: 44.67862, y: 157.60583}
+        - {x: 51.47711, y: 165.26154}
+        - {x: 57.842285, y: 164.84503}
+        - {x: 63.782806, y: 158.66321}
+        - {x: 68.92676, y: 162.67047}
+        - {x: 76.32733, y: 169.9502}
+        - {x: 90.66284, y: 170.5}
+        - {x: 91, y: 132.67181}
+        - {x: -58.187057, y: 136.87842}
+        - {x: -59.452103, y: -170.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc4807b938b3a9419c3883ccefba75c
+      internalID: 1240318277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_wall_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 682
+        width: 182
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 63.263428, y: -172.03198}
+        - {x: 60.79889, y: 130.92523}
+        - {x: -70.64502, y: 130.64911}
+        - {x: -86.4444, y: 145.05774}
+        - {x: -85.15192, y: 168.21484}
+        - {x: -57.71118, y: 159.79602}
+        - {x: -57.50287, y: 144.88934}
+        - {x: 73.65985, y: 150.25592}
+        - {x: 73.65985, y: -170.99231}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a03cfea8902fa44ac70821182d3472
+      internalID: -592611813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_45
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 891
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6393c6d2ea92cdd4aa4e411873f8e356
+      internalID: 1828295941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_175
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 883
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25.5, y: -21}
+        - {x: -25.5, y: -11}
+        - {x: -7.5, y: 7}
+        - {x: 16.5, y: 31}
+        - {x: 25.5, y: 22}
+        - {x: 25.5, y: 13}
+        - {x: -16.5, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccdd31bbaaed82428b3ea309ab8a6b2
+      internalID: -868906769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_sofa_1
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 883
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9.5, y: -16.5}
+        - {x: 0.5, y: -7.5}
+        - {x: -10.5, y: 2.5}
+        - {x: -23.5, y: 15.5}
+        - {x: -12.5, y: 28.5}
+        - {x: -4.5, y: 28.5}
+        - {x: -4.5, y: 26.5}
+        - {x: -5.5, y: 23.5}
+        - {x: 19.5, y: -1.5}
+        - {x: 23.5, y: -1.5}
+        - {x: 25.5, y: -3.5}
+        - {x: 21.5, y: -9.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 21.5, y: -16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc199d06f9aeda047a02ed1d2d121506
+      internalID: 1752024221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_41
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 869
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfcd259669590445a9d85b317ef439a
+      internalID: -954993408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_door_4
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 878
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -14.5}
+        - {x: -16, y: 9.5}
+        - {x: -12, y: 15.5}
+        - {x: -6, y: 17.5}
+        - {x: 6, y: 17.5}
+        - {x: 12, y: 15.5}
+        - {x: 16, y: 10.5}
+        - {x: 16, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a3e7f6d153dc4ebfefc9da687ccc0
+      internalID: 686328573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_table_2
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 870
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: -18.5}
+        - {x: 2.5950928, y: -22.5}
+        - {x: -7.40271, y: -22.5}
+        - {x: -15, y: -19.5}
+        - {x: -20, y: -15.5}
+        - {x: -24, y: -10.5}
+        - {x: -25.999878, y: -4.0513306}
+        - {x: -26, y: 5.353882}
+        - {x: -23, y: 11.5}
+        - {x: -20, y: 14.5}
+        - {x: -14, y: 20.5}
+        - {x: -7.00708, y: 22.499939}
+        - {x: 2.3753662, y: 22.5}
+        - {x: 11, y: 19.5}
+        - {x: 16, y: 14.5}
+        - {x: 19, y: 10.5}
+        - {x: 21, y: 4.5}
+        - {x: 21.404785, y: -4.2786865}
+        - {x: 19, y: -9.5}
+        - {x: 15, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d2abb121d8f52438c54e1388fefe37
+      internalID: -997968869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_54
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d656c6a95d278e541add6a0fac8c7166
+      internalID: -98844061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_40
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 869
+        width: 142
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d6148f6e6ffaa46925ccc8c929e01e
+      internalID: -148120099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_4
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 845
+        width: 35
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12.5, y: -60.5}
+        - {x: 6.5, y: -63.5}
+        - {x: -3.5, y: -63.5}
+        - {x: -10.5, y: -61.5}
+        - {x: -16.5, y: -56.5}
+        - {x: -16.5, y: -48.5}
+        - {x: -12.5, y: -40.5}
+        - {x: -11.5, y: 12.5}
+        - {x: -8.5, y: 33.5}
+        - {x: -5.5, y: 57.5}
+        - {x: -2.5, y: 61.5}
+        - {x: 0.5, y: 64.5}
+        - {x: 4.5, y: 60.5}
+        - {x: 7.5, y: 54.5}
+        - {x: 12.5, y: 8.5}
+        - {x: 13.5, y: -40.5}
+        - {x: 15.5, y: -43.5}
+        - {x: 17.5, y: -48.5}
+        - {x: 17.5, y: -56.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c034b3e33be3ae24a987a8a710af08f8
+      internalID: 50585764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_15
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 773
+        width: 77
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05842a3ba5034c644a8a8447d14cc9cf
+      internalID: 657268787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_46
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 816
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77a237d4a48eb644b987964dda31e9c
+      internalID: -773132469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_44
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 816
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f0f3bbc66a8544865fe8e6b19cc19
+      internalID: -219942635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_49
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 803
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49361dd8ee1c22843acbf7d9b45c460c
+      internalID: 471600390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_58
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 812
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6ce90d63c234441ab3b29dc91363d5
+      internalID: -1324004117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_55
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 870
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43eebc24c807d446a72db4da8b5d085
+      internalID: 1092251423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_43
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 803
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a67450c493f026439bb6faedeb69eaa
+      internalID: 769575206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_table_shadow
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 788
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e3015e55bd1e0499ec003f1886d46f
+      internalID: -306317405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_56
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 819
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34935f28eb4f7024b8b399790c00b435
+      internalID: 939909622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_39
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 724
+        width: 64
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5fec438968d4944866eccab7e7afbd
+      internalID: 1975633236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_38
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 724
+        width: 64
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d07e6b1d4a788b42a4b7c446ac8bb26
+      internalID: 1673981612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_37
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 724
+        width: 64
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb1765b7b105de43b1c653d64cf139e
+      internalID: -96320309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_36
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 779
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017b340ffe734aa4599f3fbbd62ef438
+      internalID: -2021227389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_47
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 741
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666a9265e471d3942bf32b45b8b5e27e
+      internalID: 1458700449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_48
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 741
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840a0aff307bab04aa9a7fb21186226a
+      internalID: -1396957616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_51
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 737
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340746f2f0ac5e245aaeb8b5c7a0d0e7
+      internalID: 230482293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_50
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 737
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ebc8884fd1ad4a9054b4bab448815
+      internalID: 861797196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_table_1
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 737
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890cd5f18f7947540a161c54a5eec4bd
+      internalID: -1602158790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_57
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 785
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be830b043addfd4e954385836392f1b
+      internalID: 1195569177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_abyss_1
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 548
+        width: 160
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 60, y: -85.5}
+        - {x: 3, y: -84.5}
+        - {x: -59, y: -25.5}
+        - {x: -59, y: 51.5}
+        - {x: -59, y: 71.5}
+        - {x: -46, y: 71.5}
+        - {x: -33, y: 85.5}
+        - {x: -34, y: 81.5}
+        - {x: -34, y: 60.5}
+        - {x: -22, y: 20.5}
+        - {x: -3, y: -8.5}
+        - {x: 19, y: -31.5}
+        - {x: 40, y: -45.5}
+        - {x: 61, y: -56.5}
+        - {x: 74, y: -60.5}
+        - {x: 74, y: -72.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c6db7024ea27546892e8099ec98ad5
+      internalID: 772901975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_door_3
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 737
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16.5, y: -16}
+        - {x: -16.5, y: 16}
+        - {x: 9.5, y: 16}
+        - {x: 13.5, y: 11}
+        - {x: 15.5, y: 7}
+        - {x: 15.5, y: -6}
+        - {x: 14.5, y: -11}
+        - {x: 8.5, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8804f0dc1a874064f8779bfd5d2ead4c
+      internalID: 1316198055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_35
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 705
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b47b7b118751ca4a94610e32c9c3530
+      internalID: 1477269629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_groung_6
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 530
+        width: 144
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bd7538836aa0c4493439fef56f7ed6
+      internalID: -824328543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_ground
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 483
+        width: 256
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc42e54f6e409f9468de77c1e3f3417e
+      internalID: 1155069125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_wall_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 401
+        height: 681
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 186.01828, y: -340.5}
+        - {x: 187.00122, y: -284.49826}
+        - {x: -195.1831, y: -283.24475}
+        - {x: -198.41019, y: -120.0231}
+        - {x: -196.57735, y: 32.613617}
+        - {x: -151.11148, y: 72.34125}
+        - {x: -148.14427, y: 289.59668}
+        - {x: -97.29469, y: 338.508}
+        - {x: 8.123596, y: 340.5}
+        - {x: 5.005554, y: 325.5442}
+        - {x: -87.60592, y: 325.19928}
+        - {x: -137.1968, y: 277.36328}
+        - {x: -135.52762, y: 67.47513}
+        - {x: -185.90573, y: 24.045105}
+        - {x: -185.25903, y: -202.84074}
+        - {x: -185.41344, y: -274.78076}
+        - {x: 200.5, y: -277.11853}
+        - {x: 200.5, y: -340.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160ddae97d308eb4a980509c04c0328a
+      internalID: 789041288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handtail_3
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1683
+        width: 260
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c569f7ea90da6054eaeeb40dbef07207
+      internalID: -125174936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_210
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 658
+        width: 97
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c1f54ae8f62e5438d5be32baa9b679
+      internalID: -364483580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_abyss_3
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 531
+        width: 176
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -93}
+        - {x: -42, y: -94}
+        - {x: -42, y: -71}
+        - {x: -61, y: -51}
+        - {x: -76, y: -36}
+        - {x: -46, y: -10}
+        - {x: -46, y: 66}
+        - {x: -31, y: 81}
+        - {x: 43, y: 81}
+        - {x: 68, y: 81}
+        - {x: 68, y: 65}
+        - {x: 81, y: 53}
+        - {x: 81, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d1957ee4c35654b8a77ee0a360510e
+      internalID: -685648414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_abyss_2
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 531
+        width: 159
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.5, y: -87.5}
+        - {x: -57.5, y: -87.5}
+        - {x: -70.5, y: -74.5}
+        - {x: -70.5, y: -60.5}
+        - {x: -56.5, y: -54.5}
+        - {x: -38.5, y: -45.5}
+        - {x: -22.5, y: -34.5}
+        - {x: -8.5, y: -22.5}
+        - {x: 5.5, y: -8.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 24.5, y: 23.5}
+        - {x: 31.5, y: 38.5}
+        - {x: 35.5, y: 52.5}
+        - {x: 36.5, y: 63.5}
+        - {x: 36.5, y: 83.5}
+        - {x: 46.5, y: 74.5}
+        - {x: 61.5, y: 74.5}
+        - {x: 61.5, y: 49.5}
+        - {x: 60.5, y: -27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb30f2ff2bd98a49b42dcaeda95ba0b
+      internalID: -1577682653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_33
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 639
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb9fefede904544db73cb3aed64a7e6
+      internalID: 191185846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_34
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 548
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0acd5460c2f644188aab4273019996
+      internalID: 1619176462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_52
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 622
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc49540655c97f4c814e49ebee91c6c
+      internalID: 1680469506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_32
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 498
+        width: 64
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb40c1745793ae4e8dcdd922a701bfa
+      internalID: -1030776349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_53
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 599
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1d22f35322f604abb70f86d1899cc3
+      internalID: 1224029561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_wall_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1
+        width: 400
+        height: 681
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -187.85617, y: -281.35315}
+        - {x: -187.32272, y: -337.93344}
+        - {x: -200, y: -340.5}
+        - {x: -200, y: -276.2174}
+        - {x: 186.43628, y: -274.08832}
+        - {x: 187.87927, y: 19.533142}
+        - {x: 135.729, y: 67.061035}
+        - {x: 136.1098, y: 81.30725}
+        - {x: 141.8305, y: 280.42035}
+        - {x: 90.10492, y: 323.35052}
+        - {x: -5.6226196, y: 323.3106}
+        - {x: -4.614685, y: 338.34863}
+        - {x: 104.79169, y: 337.69275}
+        - {x: 154.82068, y: 287.95026}
+        - {x: 152.66937, y: 80.84357}
+        - {x: 200, y: 32.165802}
+        - {x: 199.91815, y: -283.24475}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f255e8e44dea4744797d5c52e0d1c4b9
+      internalID: 1546091810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_door_1
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 548
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4.5, y: -28}
+        - {x: -21.5, y: -28}
+        - {x: -21.5, y: 28}
+        - {x: -9.5, y: 29}
+        - {x: 0.5, y: 29}
+        - {x: 12.5, y: 24}
+        - {x: 20.5, y: 15}
+        - {x: 24.5, y: 9}
+        - {x: 24.5, y: -6}
+        - {x: 20.5, y: -17}
+        - {x: 10.5, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02139cb480cb7354f8d5c16432b67fbf
+      internalID: -1767945480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handtail_2
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 485
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -56}
+        - {x: -18, y: 56}
+        - {x: 0, y: 56}
+        - {x: 0, y: 41}
+        - {x: -15, y: 41}
+        - {x: -15, y: -56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6959e3c4b5c24b468804f3f4c1fd7ef
+      internalID: -1689865087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foyer_Collection_221
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 324
+        width: 289
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbe210dada3f944dacd389b049e9bf6
+      internalID: 1897314678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_abyss_4
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 323
+        width: 160
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 62, y: -103}
+        - {x: 51, y: -103}
+        - {x: -15, y: -38}
+        - {x: -46, y: -38}
+        - {x: -63, y: -21}
+        - {x: -63, y: 54}
+        - {x: -79, y: 71}
+        - {x: -80, y: 103}
+        - {x: -63, y: 87}
+        - {x: -48, y: 87}
+        - {x: -32, y: 103}
+        - {x: 31, y: 103}
+        - {x: 80, y: 55}
+        - {x: 79, y: -86}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86f7337face50f4cb489a38db5d9ba5
+      internalID: -1338687279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_sofa_2
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 498
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: -9.5}
+        - {x: -15.5, y: -1.5}
+        - {x: 0.5, y: 14.5}
+        - {x: 9.5, y: 14.5}
+        - {x: 13.5, y: 11.5}
+        - {x: 10.5, y: 8.5}
+        - {x: 16.5, y: 3.5}
+        - {x: 14.5, y: 0.5}
+        - {x: 10.5, y: -0.5}
+        - {x: 3.5, y: -7.5}
+        - {x: 3.5, y: -13.5}
+        - {x: -1.5, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999b89eebafa0e74db298503e954f312
+      internalID: 1620133041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_abyss_5
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 320
+        width: 204
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 31, y: 4}
+        - {x: -18, y: -41}
+        - {x: -70, y: -41}
+        - {x: -81, y: -28}
+        - {x: -81, y: 40}
+        - {x: -81, y: 55}
+        - {x: -81, y: 67}
+        - {x: -66, y: 67}
+        - {x: -53, y: 81}
+        - {x: 7, y: 81}
+        - {x: 92, y: 0}
+        - {x: 76, y: 0}
+        - {x: 66, y: -7}
+        - {x: 56, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251c8dc9e7a0a934f94736a9e2e8be51
+      internalID: 550136241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_31
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 419
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6682e258ea250428115281223ba08a
+      internalID: 1819303617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_wall_6
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 343
+        width: 115
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 43.5, y: -69}
+        - {x: 40.60669, y: -64.17981}
+        - {x: 26.5, y: -66}
+        - {x: 19.211914, y: -61.167664}
+        - {x: 11.5, y: -61}
+        - {x: 8.251953, y: -65.888}
+        - {x: -18.5, y: -68}
+        - {x: -23.518677, y: -62}
+        - {x: -57.5, y: -62}
+        - {x: -57.5, y: 69}
+        - {x: 57.5, y: 69}
+        - {x: 57.5, y: -69}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0f4936977037e408c65e84be5294d3
+      internalID: 261168095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj7
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 456
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf7cf8da7a6e294781b13f58232586c
+      internalID: -2092754318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj6
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 456
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632ac408516c7344bba554dc57992e6b
+      internalID: -776902927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_2
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 288
+        width: 35
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6.5, y: -63.5}
+        - {x: -6.5, y: -64.5}
+        - {x: -17.5, y: -56.5}
+        - {x: -17.5, y: -49.5}
+        - {x: -12.5, y: -44.5}
+        - {x: -11.5, y: -40.5}
+        - {x: -12.5, y: 0.5}
+        - {x: -6.5, y: 48.5}
+        - {x: -3.5, y: 61.5}
+        - {x: 0.5, y: 64.5}
+        - {x: 5.5, y: 59.5}
+        - {x: 7.5, y: 48.5}
+        - {x: 13.5, y: -0.5}
+        - {x: 12.5, y: -40.5}
+        - {x: 13.5, y: -44.5}
+        - {x: 17.5, y: -46.5}
+        - {x: 16.5, y: -57.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c43307eefbb43944a5d9c7c83126029
+      internalID: 563996426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_shadow
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 359
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068d756a10f52e14f8454e2c3a47db59
+      internalID: 288638553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_16
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 230
+        width: 77
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c1682504d48894bb4c284d85d25fb4
+      internalID: -2124907629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_door_2
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1
+        width: 208
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 96, y: -157.5}
+        - {x: 96, y: -153.5}
+        - {x: 55.77124, y: -153.5}
+        - {x: -54, y: -153.5}
+        - {x: -95, y: -153.5}
+        - {x: -95, y: -159.5}
+        - {x: -104, y: -159.5}
+        - {x: -104, y: 37.5}
+        - {x: -100, y: 62.5}
+        - {x: -81, y: 110.5}
+        - {x: -47, y: 147.5}
+        - {x: -10, y: 160.5}
+        - {x: 22, y: 159.5}
+        - {x: 55, y: 141.5}
+        - {x: 78, y: 114.5}
+        - {x: 95, y: 82.5}
+        - {x: 104, y: 34.5}
+        - {x: 104, y: -155.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0269060df4eee8d4a9427db52e4efb7c
+      internalID: 51164039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_1
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 286
+        width: 129
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 27.5, y: -8.5}
+        - {x: 6.5, y: -12.5}
+        - {x: -45.5, y: -12.5}
+        - {x: -47.5, y: -16.5}
+        - {x: -57.5, y: -16.5}
+        - {x: -61.5, y: -12.5}
+        - {x: -63.5, y: -5.5}
+        - {x: -63.5, y: 5.5}
+        - {x: -60.5, y: 12.5}
+        - {x: -56.5, y: 16.5}
+        - {x: -45.5, y: 16.5}
+        - {x: -44.5, y: 13.5}
+        - {x: 6.5, y: 12.5}
+        - {x: 25.5, y: 10.5}
+        - {x: 53.5, y: 7.5}
+        - {x: 61.5, y: 4.5}
+        - {x: 64.5, y: 0.5}
+        - {x: 60.5, y: -3.5}
+        - {x: 53.5, y: -5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cd26e266f8b304a9f82bcf3c282108
+      internalID: 1803209643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_23
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 286
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d478a6c0de3da4298eb796ed6ae58d
+      internalID: 1672481820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_abyss_6
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 159
+        width: 205
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -63.5, y: -57.5}
+        - {x: -63.5, y: -19.5}
+        - {x: -33.5, y: 13.5}
+        - {x: -5.5, y: -48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bcf57f0104b6942bb34869ddaa27fe
+      internalID: -1672518558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_5
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 312
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de589d52b114a6468bcbc44befd0934
+      internalID: -2098893236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_25
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 224
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3a6f5377608b8409d02fc1640c6151
+      internalID: 1508540076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_24
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 253
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1040c2bfa66a3b4d9baf218c450cc97
+      internalID: 1218994565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_14
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 224
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3e969b0c8ffbd43857fb5811b61f61
+      internalID: 820548089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_21
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 142
+        width: 64
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce62fa336f0134e83b3ffec6f7b9aa
+      internalID: 505988554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_22
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 256
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2457cfe7b42f2f46a1571c8ea089447
+      internalID: -812738245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_27
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 207
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9af885738c1384296fe881d72a0a54
+      internalID: 1950660805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_26
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 159
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3464f8bf3a05a1f49bbc12404bf101a4
+      internalID: -192326307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_28
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 212
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ce2094f32fbd847b70203ca4d8c367
+      internalID: -1600670753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handtail_1
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 142
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19, y: -56}
+        - {x: -19, y: 56}
+        - {x: -15, y: 56}
+        - {x: -15, y: -41}
+        - {x: -2, y: -41}
+        - {x: -2, y: -56}
+        - {x: -15, y: -56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795d5c7dc2291bc40860f03127ec3561
+      internalID: -1998283667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_ground_7
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1
+        width: 144
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba74bbe2fd22b24689677974e96cc81
+      internalID: 65145988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_17
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1
+        width: 77
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290eac69265e10f488c005b22e376670
+      internalID: 793123202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_29
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 80
+        width: 224
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54469e093e9f1b24cb6b62fc0f70a3fd
+      internalID: -764280066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_20
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 63
+        width: 145
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d62d52d10a9704d8b90f6af5d22471
+      internalID: 1812651911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_3
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 105
+        width: 129
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -0.5, y: -12.5}
+        - {x: -44.5, y: -12.5}
+        - {x: -47.5, y: -15.5}
+        - {x: -56.5, y: -17.5}
+        - {x: -61.5, y: -12.5}
+        - {x: -63.5, y: -4.5}
+        - {x: -64.5, y: 5.5}
+        - {x: -57.5, y: 17.5}
+        - {x: -50.5, y: 17.5}
+        - {x: -44.5, y: 13.5}
+        - {x: -0.5, y: 13.5}
+        - {x: 48.5, y: 7.5}
+        - {x: 59.5, y: 4.5}
+        - {x: 64.5, y: 0.5}
+        - {x: 59.5, y: -4.5}
+        - {x: 48.5, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73662ce801146646a39729a7210123b
+      internalID: -1685938078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_wall_5
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1
+        width: 115
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -57.5, y: -68.5}
+        - {x: -57.499878, y: -25.105759}
+        - {x: -32.5, y: -25.5}
+        - {x: -23.5, y: -17.5}
+        - {x: -19.5, y: -10.5}
+        - {x: -20.5, y: 0.5}
+        - {x: -24.5, y: 9.5}
+        - {x: -34.5, y: 16.5}
+        - {x: -57.5, y: 15.76104}
+        - {x: -57.5, y: 64.5}
+        - {x: -49.5, y: 60.5}
+        - {x: -40.5, y: 64.5}
+        - {x: -34.5, y: 61.5}
+        - {x: -28.5, y: 61.5}
+        - {x: -17.5, y: 67.5}
+        - {x: 1.5, y: 67.5}
+        - {x: 16.5, y: 60.5}
+        - {x: 24.5, y: 63.5}
+        - {x: 42.5, y: 68.5}
+        - {x: 57.5, y: 68.5}
+        - {x: 57.5, y: -68.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257789610ac58bc4cb697c158c45b2ca
+      internalID: 518206574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_30
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1
+        width: 224
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d371f7908161e9043bf0906544050d7c
+      internalID: 1540733666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -42}
+        - {x: -32, y: 8}
+        - {x: 2, y: 42}
+        - {x: 19, y: 25}
+        - {x: 42, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37c9f2df054a0d43b6107be0f2ee340
+      internalID: 201126686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_19
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 30
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a578e622d6aa548a7f8ac7c19095b1
+      internalID: 151238061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_18
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4d6786d3b578e40afd3a3721f278c6
+      internalID: -1993489052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj3
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 40
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -6.5}
+        - {x: -7, y: 6.5}
+        - {x: 8, y: 6.5}
+        - {x: 8, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e46520981b8d340ba47b626ca9a4c1
+      internalID: 27038733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj4
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 17
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -8}
+        - {x: -9, y: -1}
+        - {x: -1, y: 8}
+        - {x: 2, y: 8}
+        - {x: 10, y: 0}
+        - {x: 1, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8636cb3a3ec5da488fba1ff592b6c98
+      internalID: 1293883494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_obj5
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -6}
+        - {x: -7, y: 6}
+        - {x: 8, y: 6}
+        - {x: 8, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473a91c31ce00824ea600d853be98118
+      internalID: -1519796560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breach_abyss_10
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1854
+        width: 49
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817278c7cd107794e84c8ef4b7d62efd
+      internalID: 1714554665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handtail_4
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1412
+        width: 260
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d5f88e68e7ec34ab8cdc185027b18d
+      internalID: -446802553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Foyer_Collection_43: -1499388404
+      breach_abyss_10: 1714554665
+      breach_table_2: -997968869
+      Foyer_Collection_45: 717974495
+      breach_groung_6: -824328543
+      elevator_2: 663828214
+      elevator_18: -1993489052
+      breach_obj20: 1818448543
+      breach_abyss_9: 449462642
+      statue_shadow: 288638553
+      breach_obj37: -1246109442
+      elevator_1: -1679159711
+      elevator_35: 1477269629
+      elevator_29: -764280066
+      Foyer_Collection_183: -1561918328
+      breach_abyss_5: 550136241
+      statue_3: -1685938078
+      Foyer_Collection_18: -2018476298
+      breach_obj3: 27038733
+      breach_obj9: -338012010
+      elevator_9: 758910658
+      elevator_31: 1819303617
+      Foyer_Collection_159: 2004908216
+      Foyer_Collection_261: 1178279867
+      breach_table_shadow: -306317405
+      Foyer_Collection_102: -1509877967
+      statue_12: -302969599
+      breach_wall_5: 518206574
+      Foyer_Collection_136: -1467577300
+      Foyer_Collection_150: 801199530
+      Foyer_Collection_170: 1921406304
+      Foyer_Collection_22: 391336540
+      breach_obj44: -381611209
+      breach_door_1: -1767945480
+      Foyer_Collection_145: 945141728
+      statue_2: 563996426
+      elevator_37: -96320309
+      Foyer_Collection_47: -641792434
+      elevator_30: 1540733666
+      tutorial_symbol: 404537367
+      elevator_49: 471600390
+      Foyer_Collection_60: -1873514261
+      Foyer_Collection_71: 1933149875
+      elevator_3: -1985618004
+      statue_10: -7359170
+      elevator_24: 1218994565
+      Foyer_Collection_116: -2049716478
+      elevator_55: 1092251423
+      elevator_12: -269944835
+      elevator_11: 1938828142
+      Foyer_Collection_63: -546056118
+      breach_ground_4: 1394798145
+      staircase_1: 2096522697
+      Foyer_Collection_109: 1639065006
+      Foyer_Collection_132: -546165514
+      Foyer_Collection_142: -1145711858
+      Foyer_Collection_81: -1221232819
+      Foyer_Collection_221: 1897314678
+      breach_obj5: -1519796560
+      elevator_47: 1458700449
+      Foyer_Collection_111: 573694829
+      statue_6: 749305389
+      breach_sofa_2: 1620133041
+      elevator_ground: 1155069125
+      elevator_58: -1324004117
+      Foyer_Collection_35: 2040744235
+      elevator_46: -773132469
+      Foyer_Collection_26: -765284803
+      elevator_4: -485291124
+      breach_obj1: 867937003
+      breach_ground_: -2125064831
+      breach_obj11: 943875758
+      Foyer_Collection_64: -656206984
+      Foyer_Collection_248: 1535521433
+      breach_obj21: 546511296
+      Foyer_Collection_175: -868906769
+      elevator_52: 1680469506
+      Foyer_Collection_144: 826507284
+      Foyer_Collection_11: -935136801
+      handtail_4: -446802553
+      Foyer_Collection_17: 1144918600
+      breach_wall_2: -592611813
+      elevator_16: -2124907629
+      breach_obj30: 1282666509
+      breach_table_1: -1602158790
+      elevator_48: -1396957616
+      Foyer_Collection_77: 2093391169
+      breach_abyss_1: 772901975
+      Foyer_Collection_21: -174898767
+      status_1: 1803209643
+      elevator_23: 1672481820
+      Foyer_Collection_54: 1860585596
+      breach_abyss_3: -685648414
+      Foyer_Collection_169: 1299489795
+      breach_obj12: -122733824
+      Foyer_Collection_129: 443862079
+      Foyer_Collection_74: -1632184792
+      elevator_41: -954993408
+      statue_8: 1197035640
+      Foyer_Collection_130: 38516674
+      elevator_13: 2124490908
+      elevator_44: -219942635
+      elevator_27: 1950660805
+      statue_7: 15397214
+      Foyer_Collection_80: 1410725228
+      breach_obj34: -501788253
+      staircase_3: 2115780523
+      Foyer_Collection_25: 485772990
+      Foyer_Collection_34: -665253532
+      Foyer_Collection_93: 1478674774
+      breach_wall_8: 1044844260
+      Foyer_Collection_168: -1569496699
+      breach_wall_9: 1448577975
+      elevator_7: -223231444
+      breach_wall_4: 1546091810
+      breach_obj: 201126686
+      breach_abyss_4: -1338687279
+      breach_obj39: -310122716
+      elevator_32: -1030776349
+      Foyer_Collection_0: -1331862981
+      Foyer_Collection_106: -1277601497
+      Foyer_Collection_29: 310277922
+      Foyer_Collection_46: 1558142474
+      breach_obj27: -1991274153
+      breach_obj2: 1060242198
+      statue_15: -1041807951
+      Foyer_Collection_120: 1195104254
+      Foyer_Collection_27: -78563986
+      elevator_33: 191185846
+      Foyer_Collection_88: -75991229
+      Foyer_Collection_65: 594232699
+      elevator_40: -148120099
+      breach_door_3: 1316198055
+      Foyer_Collection_53: -2098559962
+      breach_wall_3: 789041288
+      elevator_0: -104030060
+      Foyer_Collection_31: -940896226
+      breach_chair_2: -2070452503
+      elevator_39: 1975633236
+      elevator_26: -192326307
+      Foyer_Collection_32: 1942855454
+      Foyer_Collection_143: 693654541
+      breach_obj42: 1599944168
+      breach_ground_2: 1641865563
+      elevator_43: 769575206
+      breach_blockroom: 588361943
+      Foyer_Collection_263: 1056126112
+      elevator_17: 793123202
+      Foyer_Collection_125: 435896144
+      breach_obj14: 1684348588
+      breach_obj38: -1021324791
+      elevator_54: -98844061
+      breach_obj7: -2092754318
+      breach_obj28: -2047726454
+      Foyer_Collection_44: 1167677987
+      Foyer_Collection_24: -85533172
+      Foyer_Collection_30: -63893073
+      breach_obj19: -122296052
+      Foyer_Collection_94: -1311836731
+      breach_ground_7: 65145988
+      handtail_3: -125174936
+      breach_obj10: -1173909841
+      breach_obj8: 950102621
+      Foyer_Collection_76: 1367118466
+      breach_obj13: -1994795500
+      Foyer_Collection_256: -1813783625
+      breach_obj29: -571428418
+      staircase_2: 1603148952
+      Foyer_Collection_20: 1758370224
+      Foyer_Collection_141: 1031004448
+      elevator_6: 2132155158
+      Foyer_Collection_103: 878622701
+      statue_14: 820548089
+      statue_13: 2034289597
+      breach_wall_6: 261168095
+      elevator_34: 1619176462
+      breach_obj17: 220742210
+      status_5: -2098893236
+      handtail_2: -1689865087
+      Foyer_Collection_210: -364483580
+      elevator_19: 151238061
+      breach_obj35: 1606371069
+      elevator_57: 1195569177
+      Foyer_Collection_112: -406090109
+      statue_11: 950310735
+      Foyer_Collection_33: -1707653001
+      Foyer_Collection_28: 330917743
+      Foyer_Collection_128: 2007762588
+      Foyer_Collection_140: -95232259
+      breach_obj33: 245889203
+      Foyer_Collection_119: -967161981
+      breach_abyss_6: -1672518558
+      breach_obj32: -28267194
+      breach_obj24: -1771867977
+      Foyer_Collection_41: -1229354944
+      Foyer_Collection_51: -1143964771
+      breach_sofa_1: 1752024221
+      Foyer_Collection_52: -1876663377
+      elevator_5: -1487079512
+      elevator_38: 1673981612
+      Foyer_Collection_50: -1940973309
+      breach_obj26: 507012723
+      breach_door_2: 51164039
+      Foyer_Collection_42: -842512872
+      elevator_53: 1224029561
+      breach_abyss_7: -794765913
+      breach_ground_5: 94843714
+      breach_obj41: 1917783440
+      Foyer_Collection_122: 2098336568
+      Foyer_Collection_97: 2091448432
+      breach_abyss_2: -1577682653
+      handtail_1: -1998283667
+      breach_obj6: -776902927
+      elevator_36: -2021227389
+      elevator_45: 1828295941
+      Foyer_Collection_73: 510396799
+      Foyer_Collection_133: 1499485607
+      breach_chair_1: 2101856157
+      Foyer_Collection_138: -1953328275
+      Foyer_Collection_90: 484461043
+      Foyer_Collection_139: -1162792018
+      statue_9: -1256287024
+      elevator_22: -812738245
+      breach_obj23: -265272285
+      elevator_15: 657268787
+      Foyer_Collection_232: 1085648951
+      elevator_20: 1812651911
+      elevator_51: 230482293
+      breach_obj43: -1905126363
+      breach_obj4: 1293883494
+      breach_ground_0: 1406390608
+      breach_obj36: 1588063693
+      Foyer_Collection_55: 1098142067
+      elevator_14: -62157001
+      breach_obj40: 1900764836
+      Foyer_Collection_59: -1141617402
+      elevator_8: -1117805426
+      elevator_21: 505988554
+      breach_obj31: -382074575
+      elevator_10: 249506439
+      Foyer_Collection_118: 698477760
+      elevator_28: -1600670753
+      statue_4: 50585764
+      breach_wall_7: -1190802907
+      Foyer_Collection_23: 1272856450
+      Foyer_Collection_107: -697714326
+      Foyer_Collection_148: 53553314
+      breach_obj18: 1721870898
+      Foyer_Collection_19: -261789101
+      Foyer_Collection_108: 2072210304
+      breach_obj25: -1596232597
+      breach_abyss_8: 755551989
+      elevator_symbol: 1546288901
+      elevator_50: 861797196
+      Foyer_Collection_137: -431602512
+      breach_ground_1: 110372074
+      elevator_25: 1508540076
+      breach_wall_1: 1240318277
+      Foyer_Collection_117: 1833744214
+      statue_16: 574176260
+      breach_obj22: -402023137
+      Foyer_Collection_40: 1036001739
+      breach_wall_10: 1419217230
+      elevator_56: 939909622
+      breach_door_4: 686328573
+      Foyer_Collection_6: 321560111
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

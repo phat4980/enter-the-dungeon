@@ -1,0 +1,5519 @@
+fileFormatVersion: 2
+guid: 21b76c8e0715a4b499bac1a01faf38eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Room_Shop_Collection_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1149
+        width: 224
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bacd4d339f26c4fafbf51aace64c72
+      internalID: -1805490094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_1
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1284
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e3606642584a4dac29daa9ff19576
+      internalID: -819065814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_2
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1296
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b570d34f7c5e24590d12f601aa713c
+      internalID: -670646453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_3
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1312
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20de2d0c4fb8b4f45aebaa0afcf0fe41
+      internalID: 1519079512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_4
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1237
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1219489587bf24bae9025140ab29d3
+      internalID: 909307037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_5
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1293
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6298dc8a3b3774599a232b4bec77bb
+      internalID: 1057683404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_6
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1174
+        width: 140
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95920b99169ccfa4dbae370001398329
+      internalID: -71602683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_7
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1242
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee27666dba86d42913345ed71d9ff7
+      internalID: -442803008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_8
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1270
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3702b553c7e8a409682548223ca3b2
+      internalID: -993864348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1222
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed0f7fa7732c1d45a11d8adbf134f6a
+      internalID: 301142128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_10
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1250
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be63414654eb7cf489d8ea1010d247c1
+      internalID: -1224350349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1166
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd79b62454bdbd047b10a1e2ca8340ee
+      internalID: -1843152109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_12
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1207
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb58b6602011c543ab930dbd400f80e
+      internalID: 352062541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_13
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1186
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c3340636e32f248917e58182b0f62e
+      internalID: 1504976514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_14
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1183
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5842779e3fb036d488c0b19c8bb61fc8
+      internalID: 28786978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_15
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1178
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a5718d3f65da844a710aa62c8275b5
+      internalID: 1969568381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_16
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1224
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c11ff5289ffe6443b448e803f2fce55
+      internalID: 238983159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_17
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1180
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7e7f66abd263d4781a3d48f4bec7a6
+      internalID: 156347786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_18
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1173
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283e74d9e06b6ee4590133151d9799f2
+      internalID: 1982511244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_19
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1187
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1928ec9dd64f8642a32ae2f4d0b362d
+      internalID: -784699385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_20
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1203
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012723f27c58b564ea4e84fc8f6efb20
+      internalID: -260956359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_21
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1158
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143e667ea7bd84343b7b3809a3c50d05
+      internalID: 37427746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_22
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1129
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d657e25cbaf9db045afbacc5a7785ec1
+      internalID: -2004903191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_23
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1127
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd7a840d5880441afb0e4e8d96c6a8
+      internalID: 788429906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_24
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1123
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c42e479414bc46ba02b01ab0cb371
+      internalID: -669945055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_25
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1178
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b75104818d21de4a840007fd2b8d4bf
+      internalID: 2311022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1109
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c80738c270fa25489e3a47e3006cb9c
+      internalID: 1046430337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1147
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f55dd23876e6c641bd21a7421adf92c
+      internalID: 1552517391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1147
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0513aedc4d5a9424a867bfcf50636d26
+      internalID: 822000227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_29
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509efcd8c5945e347b50b6ca11114207
+      internalID: -922329753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1123
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad530a644c9b8448b93e223e19374b4
+      internalID: 422186496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1123
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913d5efbefd60054fad58b7e940f6b37
+      internalID: -1916989223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_32
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1123
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199a7a124f6002e41af73228b216b3e1
+      internalID: -1310767985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_33
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1123
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592aafbf47e8bfc4b98414d5c83fc727
+      internalID: 1052104574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_34
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1108
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9c56d19a7b689449a7d43ec179c5f2
+      internalID: 872339247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_35
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1124
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb3bf14e55bb124b8b6f439eea44034
+      internalID: 2022402797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_36
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1146
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dd7627edbd4c74d8aae21a1b797feb
+      internalID: 484745683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_37
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1145
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc45c5f70540c443aeca281af3e1ef2
+      internalID: 417814666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_38
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1136
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8099ba110ccdd3408e848cf31433c9f
+      internalID: -85906309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_39
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1136
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e657307827bf9a54093994a865894667
+      internalID: 1150330978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_40
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1118
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def321e4d5b66f942b352783316f6702
+      internalID: -1986397459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 923
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c894ec85875c1544b2c89f3684c537a
+      internalID: -32576835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1069
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53708efb51346544786e6d58b764386e
+      internalID: -580949556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_43
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1097
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57c62eb21138ce41875939894bf944a
+      internalID: 183103125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_44
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1097
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac52f643f5d4ab47b6bce00432c0207
+      internalID: 1406391659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_45
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1097
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c3acaac7cb2849860a615ed911fdc
+      internalID: 1809408521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_46
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1090
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71c40c44c296284a8abcb287f4476df
+      internalID: 448444167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_47
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1087
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f22f0e0d44d16c4e8de48537d34f222
+      internalID: -1505526825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_48
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1117
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c9ccce2eed24a46aee89bac0dbf5ff
+      internalID: 1396108775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_49
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1070
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dadba539e21e946882ccbd04897203
+      internalID: -525662511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_50
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1067
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43759c642eb22ba48a071f720fd673a8
+      internalID: 1881897758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_51
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1063
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e769dba2722d47642ab05d96c81e91a6
+      internalID: 1704672687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_52
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1089
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43289a2ab5b3a314fabcac8ed61dc2ea
+      internalID: 1463618881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_53
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1106
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af516a31723be474eb6d93f4d04eeefa
+      internalID: 988764014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_54
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1110
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda3410a8d99aa84486aee755bd65af9
+      internalID: 962959328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_55
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1095
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c9deb9b52742044b799e6dd9fc899c
+      internalID: -1181009599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_56
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1047
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b2f09c2e515f1469a790b418f24592
+      internalID: -920877756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_57
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1049
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6202b4aec903e074ab38c29b3dc6ec38
+      internalID: -2113247645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_58
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1082
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01077fbea85521041935092f6761223b
+      internalID: -151586351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_59
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1094
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c09347743dff354aa97bf25cd1a76d8
+      internalID: 457804754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_60
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1056
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2197847ef1f3c1f4386c17b43331ed48
+      internalID: -164975623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_61
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1056
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d605cdf2bdfe5be4f9118da9f8b0c197
+      internalID: -132950082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_62
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1056
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca98d2c8a942fb64ebd7d4690973f848
+      internalID: -657692800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_63
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1087
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e987cb725dcdd0649a12bbe74bb99e34
+      internalID: 1025404338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_64
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1077
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb90fecadc693c4090af2f819c5f250
+      internalID: -886901587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_65
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1087
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef67be3f4f6662e41b8422d7a090ab1e
+      internalID: -1171143659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_66
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1052
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7851e6a44e39c184895c1aceb096f64d
+      internalID: 1141489700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_67
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1045
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d2f83642be0204d9dff0c05a7505da
+      internalID: -1072249897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_68
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1027
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66629a66046c1a044850fa34aeb020ba
+      internalID: 389544704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_69
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1061
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275252fe3108f4e4e9220a46e514b7e1
+      internalID: 1780362625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_70
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1010
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dcc9b88b801684a8b495ccc4c87105
+      internalID: -264642035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_71
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1026
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca55a931a02325c4b9662e7f9a3f0b1b
+      internalID: -1209399480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_72
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1017
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3e4a66b2ecbb349976a59468672631
+      internalID: 583350866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_73
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 943
+        width: 43
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab5938e62a840a4caa25e09ceb3ae4c
+      internalID: -2026347308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_74
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1041
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dba3162687d813489bfb71af9080406
+      internalID: -1835211004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_75
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1051
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89954fed3bf317440a2fa6ef69d63e0d
+      internalID: 703123701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_76
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1051
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99f33ec6d569bf4e88037e4716c4a48
+      internalID: -1184890479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_77
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1038
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e7f22bbc6243544af406fa2d250d0a
+      internalID: 2058073452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_78
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1001
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ef3e7bc4026e64ca4a2ed8d9f5b317
+      internalID: 1482601207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1003
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081fa10648e9fd241b0d00ec28b614b7
+      internalID: -1560945981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_80
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 985
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9064d293dd9845b4cbb123c0d3bdb585
+      internalID: -1944783591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_81
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 989
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ec3cb780437dd46a97cb7d8e70a72c
+      internalID: 1009227348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_82
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1025
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79480f22d016e4545992f73dc369eaed
+      internalID: 1017701507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_83
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1038
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc34b365fcd7d54e9016e04fc3d69ea
+      internalID: 1536210436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_84
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1038
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f56df7262316744b26e9f61e48267e
+      internalID: -266625325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_85
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1006
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfd7d784bc975648b20df2d1ef4ef58
+      internalID: 780936867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_86
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1006
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e8271b6ebed2542bb8260500c09a02
+      internalID: 1676660326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_87
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1006
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e610f70d5bdceb440bf76d2e5746160c
+      internalID: -1031876994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_88
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1007
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55d62a308776a642bfd0b3ed53915c7
+      internalID: -1557109648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_89
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 966
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c05ba46135773429f8b5bb445b938b
+      internalID: -1483890555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_90
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1015
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a769ee0bdcea44d91b2d99eb4e1f29
+      internalID: 334955889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_91
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1025
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b74c13eb82882f41aee0ae9f0662b0c
+      internalID: 129113011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_92
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1015
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e589020b149f91b4ea042d5312ba1cea
+      internalID: -231201840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_93
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1025
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f0521ce4822fd46befaee6fbeabd30
+      internalID: 1170653615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_94
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1020
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0af35e1892b73349826a914e775e819
+      internalID: -1253491539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_95
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1017
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f360aff36ab12b347a3b77e3b8bd1205
+      internalID: 908035381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_96
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1017
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13440e9c585b9b847a1e30c9b118c05a
+      internalID: -1313710040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 887
+        width: 200
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08637b8f8dabec0498385803dbdf9848
+      internalID: -1135164672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_98
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 990
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaddc632fde89c49bf4230eb1885356
+      internalID: -1941145073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_99
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 973
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e82b736e11c9fc46891d9faef112b3f
+      internalID: 721682078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_100
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 954
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87378cca2adc86a4390488ef32f41f33
+      internalID: -549079090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_101
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 976
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f230931a17e924b8e44a78861e70bf
+      internalID: -518946331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_102
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 976
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0466197ee220bbb4ba5ded174ddf9a60
+      internalID: -682639539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_103
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1000
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f68c5dac00ba4d41aa9d8546f1c9ab2
+      internalID: 160696942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_104
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1000
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458868be87de76248a0b2e8ad7b08cc1
+      internalID: -1368494807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_105
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1000
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae728cb2eb81e543892ec99c9c06ce0
+      internalID: 125256264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_106
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1000
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c881995ea5bf564eaf8d2e730612787
+      internalID: 1051211070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_107
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 987
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa2dd297faacfa42a93b53266fa7eee
+      internalID: 39629190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_108
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 961
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c98419514d4eb342a14449f9d049baf
+      internalID: 1907331456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_109
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 973
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e342793a1eefa46b4707436f42ccc1
+      internalID: 1627701113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_110
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 941
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da4c0eb20d6cbe4eb6275ffc1fafcd6
+      internalID: -806194627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_111
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 987
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922d64ea3c250974994c23396507428f
+      internalID: -372833075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_112
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 987
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02655122374d7a74ebd45e2376b4076c
+      internalID: -1674983406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_113
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 987
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bd1121327f0534684a6a2a268694cd
+      internalID: -696529111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_114
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 987
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283d4939e0663d841bd7d873898e24e3
+      internalID: 1579090089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_115
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 975
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86aa0bd8251a18449d7c0f93b84d5bb
+      internalID: -238010228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_116
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 923
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f660acc1192880949ad201cdda183b68
+      internalID: -356579222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_117
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 937
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf48fdafcd2bf4a9492cd98e59bbf0
+      internalID: -1090859659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_118
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 955
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5aba55c66065246a40cba1f18abd24
+      internalID: 621331283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_119
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 905
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be3524ea17647544be19bf3f2221a3b
+      internalID: 1771923257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_121
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 929
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb629ebca67226409bfcd99f2bbfa3c
+      internalID: 1790759469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_123
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 761
+        width: 123
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c53f70cce24926408fee9a8af9847a2
+      internalID: -479314757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_124
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 937
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053b0944a9553e74b96f9372e36f23d3
+      internalID: -667115141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_125
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 957
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607276ac4ceae3b4484896c3da20e41b
+      internalID: -1457907357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_126
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 928
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7219943555ba30748a8fcd55f9672b40
+      internalID: 840886393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_127
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 928
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d2de59c63d3914bacb7e6c41de963b
+      internalID: 199480529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_128
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 928
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694c9713cd8d34044ae0a317423d0b02
+      internalID: 1633541826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_129
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 928
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d04621e7daf9f4194b51f9d4fd8db6
+      internalID: -561294933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_130
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 937
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4ad9033ef35c344ad5383099d858a0
+      internalID: 1594594837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_132
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 919
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473f64a734c4ee242ac47ac612559b1a
+      internalID: -1906547932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_133
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 892
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3086e59735ac9194f8f7ea0975555907
+      internalID: 789504568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_134
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 937
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecfee0ac4dce094aa6eaa8bca3a9d5b
+      internalID: -312309873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_135
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 735
+        width: 32
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5348d2048c51cf1439e31ce9b80f8547
+      internalID: 1733969333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_136
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 889
+        width: 256
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc46291711ec024db33643fc439db43
+      internalID: 465658981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_137
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 911
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c7bb9f32a67747873724bbe228e24
+      internalID: 669437913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_138
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 911
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efae9010bfc1cc46880ed4590d553d9
+      internalID: 2120686358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_139
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 911
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bc70d9ad2b9a542ad32195259ce077
+      internalID: -1817399874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_140
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 911
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3ec16c898ba6d41b2611c9093700d9
+      internalID: -349419091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_141
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 887
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf4a5380182d1a4a9a1f1f4e4ee933e
+      internalID: -583795248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_142
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 880
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac4fb5c11d13974f90c30ab8659dc6b
+      internalID: -1119644251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_143
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 891
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3348de4ab4273a5469b59c0b719b2832
+      internalID: 724963557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_144
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 889
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50a14d192e16ee46ba3d5aa3beb80b7
+      internalID: 713526712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_145
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 898
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cdb8bd6e3305b4dbfa6bb114955bc4
+      internalID: -695780977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_146
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 898
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4678336a9e9786448a0b4ff61f99d425
+      internalID: 1677208908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_147
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 898
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3d1cb8dcdc59c41bc443cd6bea396f
+      internalID: 334922168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_148
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 898
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3329569a92cde4248bc0fbba9f94a0d1
+      internalID: -999270401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_149
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 841
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c30c4c7281c849872b7bb0bef7e45
+      internalID: 56313368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_150
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 840
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba5aa38d36b89b4f92d1794c3dfc8e6
+      internalID: -2142618711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_151
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 635
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbc59d2330d24641a55eb1a8c505d65
+      internalID: -2041007655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_152
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 830
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0935216f47b0b4b9c165ad2a6bb74b
+      internalID: 377511226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_153
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 861
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e17dc26738c9147b14c9b9c4a4342a
+      internalID: -2141425141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_154
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 833
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beffc057975cdae43b1d18cac1a670c7
+      internalID: 433030997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_155
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 827
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a31cfe2a87e3d4999354f2fc59110f
+      internalID: 2037989595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_156
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 825
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b75593102e7c6d44824d8025cfab433
+      internalID: -1135784378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_157
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 825
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4447786af2518964f8d08075bf324af5
+      internalID: 423453867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_158
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 783
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098f30801e040e54fb7912d57fa13274
+      internalID: -1414630355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_159
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 776
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d33e8e536a155409ad18466f3cd1cf
+      internalID: 481016058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_160
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 830
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee20eeeb277e80044ba5ef57480bb126
+      internalID: 334483876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_161
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 768
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44d625068a569447bc87e6d9c979987
+      internalID: -1769191768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_162
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 783
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2199760155345d47a145bb74ccb59ef
+      internalID: 1894584968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_163
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 783
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb54c6541e3f014b80a692940bcf322
+      internalID: -1008086727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_164
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 764
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087c4973d1604ba48a4d998c3a112a67
+      internalID: 762079166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_165
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 761
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c503816ed481eff45b49007aa2c8ff4a
+      internalID: 838861394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_166
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 728
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cca7b0101993ca409e9508bfb2171e6
+      internalID: -137815017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_167
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 714
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c732c4cddbefcf74989dbe47ecb6725c
+      internalID: -294232982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_168
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 686
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7843dc6bf15518348b1fe889e470e2c2
+      internalID: -1097149678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_169
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 707
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dd2c1dde10b3344bec201899729bba
+      internalID: 658796883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_170
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 708
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f109f64b0b0ef74091fd50e704299ca
+      internalID: 1531083708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_171
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 477
+        width: 33
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad4e77b1d0a7354caa8c22dff4fe415
+      internalID: 573708755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_172
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 707
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d4668c37816c44eb4e37ee5eb012b0
+      internalID: -146938417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_173
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 696
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baadcf3f2614d440add143b8d218b78
+      internalID: 573372634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_174
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 707
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17960301751ca94cacada06981a06e5
+      internalID: 1028332219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_175
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 635
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ab491ed7098b848a974fae9472b0cd
+      internalID: 106375880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_176
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 665
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5fe7ea40790f3419425c9f62a750ea
+      internalID: 1496248661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_177
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 665
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567c28770ac6984584da7e5c1c5bc4c
+      internalID: -834479431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_178
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 692
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ac7a3c8c6abea49b13455c3f2d13f2
+      internalID: 1365400318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_179
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 677
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc1ef76b04ac524e9192d3e3cf64f09
+      internalID: -1453738315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_180
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 687
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c1ea824eac0a342bdf58a8a5c22083
+      internalID: -1644666980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_181
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 676
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0c9bd33421921438f7bab24c3ce99e
+      internalID: 190111817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_182
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 658
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3c49c102e82ea4d981f6d50f7e720e
+      internalID: -953311101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_183
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 680
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a11675b21133e546b1f896906310005
+      internalID: -2111078702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_184
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 667
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d56f8f2cc8a6449ec27eab51788a2
+      internalID: -229893115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_185
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 615
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ad9a02db5d95946bd41c55d9ba042d
+      internalID: -1886051546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_186
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 407
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5189ce39543f824b9792c565d7f7136
+      internalID: -1707200841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_187
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 643
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c65fbc0a7258534c9ebe55a4cd5e69a
+      internalID: -2032636678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_188
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 656
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e70e7913632f8e4aa8e83e965ab7b1b
+      internalID: -847277573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_189
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 635
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e439c865a2c5d45a87a282fa6a5bf3
+      internalID: -1274092005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_190
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 647
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9a221c832a22845af6918aa5ffb7ba
+      internalID: -1781734377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_191
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 624
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b452c630150eb438dd97a80962356c
+      internalID: 649755967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_192
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 633
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a64cb480af1c348921ec151da05257
+      internalID: 53880421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_193
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 638
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ed31f7ab86a0c4caeadd9065c3d246
+      internalID: -351058887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_194
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 605
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e0d495179516e4380e08004924f3d3
+      internalID: -448309603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_195
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 371
+        width: 291
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b7f662dd2c5b34fa98a25b73c45ef0
+      internalID: -1019299589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_196
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 615
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ef1fa45f386374a95e5a7b24372f08
+      internalID: -2029173655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_197
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 583
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaf715c5378cb1499de73e4fc66a23e
+      internalID: 910684853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_198
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 603
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc223721aeba34c8562faa158b9369
+      internalID: 160789117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_199
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 548
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb32112167ce6040979c08162b33ec6
+      internalID: 1594386703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_200
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 577
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7998b67b2a5e07045a7c7ce5029db7e9
+      internalID: -2028431696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_201
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 535
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01ebb04fcd65094298bfdbcbff6b20e
+      internalID: 1277234330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_202
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 560
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930a9533c15e11c4f9356c92364c82cc
+      internalID: 1450627217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_203
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 498
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad16c4aba036d224e8db087d6b225393
+      internalID: 1392194696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_204
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 520
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92878ec436f9fc44b2500fc305ea3b8
+      internalID: -2011101871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_205
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 512
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0a666d705ac974c977a5c8c172cb08
+      internalID: -612143255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_206
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 497
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab94eb15c9b49549b53b72dc32fef9a
+      internalID: 1837962658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_207
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 471
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56554c4b0d66da941a7a905e180df8f4
+      internalID: 1536779885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_208
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 371
+        width: 75
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a2067df9b425c449a8b4f02d291126
+      internalID: -214293346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_209
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 482
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4141bdd147102d240826903be7eed098
+      internalID: -1167203058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_210
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 478
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c4327a9d2ba6428ec4784d9d1516f
+      internalID: 945708697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_211
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 466
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82419a6f23f5c47bbfc4c8e880ffe0
+      internalID: 2025192434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_212
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 466
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d03a29ab7fbae44b1ab4aadbb8be0c
+      internalID: 870086405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_213
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 455
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6abbce33c3f4a4c87d1d2c5e03bb79
+      internalID: -644269967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_214
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 451
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a38a4fcbbfee2a4ca2df3cb83854884
+      internalID: -1499555089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_215
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 462
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a3063a57e9144abe0c73e1dbfa406
+      internalID: -1750959730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_216
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 407
+        width: 7
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dad7fe56a718042be0483e584c4175
+      internalID: -903034699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_217
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 425
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfbf58364421b74dbb81cb028818918
+      internalID: 155170156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_218
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 446
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81af8e0410ff01c4ba9efd5e52b6b278
+      internalID: -1639653549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_219
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 446
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22026c30a15b8434780fac17fffd85e7
+      internalID: 1441319940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_220
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 446
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fe79929ebb53241982dc25be15b389
+      internalID: 1790030738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_221
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 387
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa88aef84317df48a177046b84778e2
+      internalID: -376564111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_222
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 430
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e9476581375444bd1a80c2418a81d
+      internalID: 884988711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_223
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 422
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e632de3bf7d3bd34fa98346e4dd8cebb
+      internalID: 1619907174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_224
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 424
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e50d11497218741b8bf6c47ec7ce98
+      internalID: -623767051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_225
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 363
+        width: 14
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b6433ff3ad70843bf2f77e6a292e19
+      internalID: 106553797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_226
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 371
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25c4dd12bd20a24c9f23a930539bfcd
+      internalID: 896349937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_227
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 416
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb23268da6a43ef45a29b4256607ff28
+      internalID: -962150845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_228
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 407
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae065bc12a16e04cbd38ad2ed58ab27
+      internalID: -378879379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_229
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55277b058161ba469a70b80bd356baa
+      internalID: -313700727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_230
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 408
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c8201a483e8504ab4f352e2f92ee97
+      internalID: -66497190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_231
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 397
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25afa6745b3ab1c47a5831ea783bac66
+      internalID: 1066189347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_232
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 391
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178e9b8aba230c84789ffc5e5b2c152e
+      internalID: 2078684272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_233
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 387
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9deca2b4ab86749aa4743df4119426
+      internalID: -114095987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_234
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 363
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e8f59e2c40e074380501ba28dc37a6
+      internalID: -228195805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_235
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1
+        width: 384
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301946d3f0265c5438eb662bfd443c4c
+      internalID: 1267295952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_236
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 321
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5df7ce2a54c0b40b366c56a85c32f3
+      internalID: 589525782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_237
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 311
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e055866b662a0e4b8793bb9c99c7bd2
+      internalID: -1899584508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_238
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 65
+        width: 48
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6822a6cb55f27438c7bbb426805810
+      internalID: -244263563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_239
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 250
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ba3d893480a5b4ebd8a1072e69969a
+      internalID: -2084671208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_240
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 219
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea2f336bce7ef240a6d6601d3f9194c
+      internalID: 243922410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_241
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 188
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52e992db739fe04c9b6cc5e559d02c8
+      internalID: -469314284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_242
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 176
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6583e9f5d650ac408520e1d44e2a47f
+      internalID: -786063198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_243
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 125
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e661eb76cc65d142acd87fc529ab8c6
+      internalID: 1470283398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_244
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67de0c73b4ff4bb49b16f1942452694e
+      internalID: -335686614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_245
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 63
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fb9dcec0b359140bf9f40cb16dc233
+      internalID: 1723741997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Shop_Collection_246
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba12f3d8f7452e4a8198bf6c1f97ac9
+      internalID: -1243628376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Room_Shop_Collection_149: 56313368
+      Room_Shop_Collection_70: -264642035
+      Room_Shop_Collection_152: 377511226
+      Room_Shop_Collection_112: -1674983406
+      Room_Shop_Collection_228: -378879379
+      Room_Shop_Collection_178: 1365400318
+      Room_Shop_Collection_138: 2120686358
+      Room_Shop_Collection_6: -71602683
+      Room_Shop_Collection_20: -260956359
+      Room_Shop_Collection_47: -1505526825
+      Room_Shop_Collection_231: 1066189347
+      Room_Shop_Collection_28: 822000227
+      Room_Shop_Collection_135: 1733969333
+      Room_Shop_Collection_34: 872339247
+      Room_Shop_Collection_175: 106375880
+      Room_Shop_Collection_3: 1519079512
+      Room_Shop_Collection_124: -667115141
+      Room_Shop_Collection_168: -1097149678
+      Room_Shop_Collection_203: 1392194696
+      Room_Shop_Collection_171: 573708755
+      Room_Shop_Collection_226: 896349937
+      Room_Shop_Collection_12: 352062541
+      Room_Shop_Collection_142: -1119644251
+      Room_Shop_Collection_211: 2025192434
+      Room_Shop_Collection_84: -266625325
+      Room_Shop_Collection_45: 1809408521
+      Room_Shop_Collection_210: 945708697
+      Room_Shop_Collection_19: -784699385
+      Room_Shop_Collection_132: -1906547932
+      Room_Shop_Collection_215: -1750959730
+      Room_Shop_Collection_201: 1277234330
+      Room_Shop_Collection_202: 1450627217
+      Room_Shop_Collection_113: -696529111
+      Room_Shop_Collection_18: 1982511244
+      Room_Shop_Collection_155: 2037989595
+      Room_Shop_Collection_170: 1531083708
+      Room_Shop_Collection_204: -2011101871
+      Room_Shop_Collection_188: -847277573
+      Room_Shop_Collection_217: 155170156
+      Room_Shop_Collection_102: -682639539
+      Room_Shop_Collection_206: 1837962658
+      Room_Shop_Collection_35: 2022402797
+      Room_Shop_Collection_189: -1274092005
+      Room_Shop_Collection_130: 1594594837
+      Room_Shop_Collection_103: 160696942
+      Room_Shop_Collection_176: 1496248661
+      Room_Shop_Collection_191: 649755967
+      Room_Shop_Collection_61: -132950082
+      Room_Shop_Collection_72: 583350866
+      Room_Shop_Collection_237: -1899584508
+      Room_Shop_Collection_91: 129113011
+      Room_Shop_Collection_190: -1781734377
+      Room_Shop_Collection_31: -1916989223
+      Room_Shop_Collection_0: -1805490094
+      Room_Shop_Collection_59: 457804754
+      Room_Shop_Collection_67: -1072249897
+      Room_Shop_Collection_81: 1009227348
+      Room_Shop_Collection_127: 199480529
+      Room_Shop_Collection_25: 2311022
+      Room_Shop_Collection_116: -356579222
+      Room_Shop_Collection_13: 1504976514
+      Room_Shop_Collection_9: 301142128
+      Room_Shop_Collection_181: 190111817
+      Room_Shop_Collection_83: 1536210436
+      Room_Shop_Collection_62: -657692800
+      Room_Shop_Collection_104: -1368494807
+      Room_Shop_Collection_118: 621331283
+      Room_Shop_Collection_60: -164975623
+      Room_Shop_Collection_64: -886901587
+      Room_Shop_Collection_182: -953311101
+      Room_Shop_Collection_220: 1790030738
+      Room_Shop_Collection_80: -1944783591
+      Room_Shop_Collection_42: -580949556
+      Room_Shop_Collection_23: 788429906
+      Room_Shop_Collection_76: -1184890479
+      Room_Shop_Collection_89: -1483890555
+      Room_Shop_Collection_207: 1536779885
+      Room_Shop_Collection_97: -1135164672
+      Room_Shop_Collection_147: 334922168
+      Room_Shop_Collection_157: 423453867
+      Room_Shop_Collection_120: -489718133
+      Room_Shop_Collection_100: -549079090
+      Room_Shop_Collection_229: -313700727
+      Room_Shop_Collection_205: -612143255
+      Room_Shop_Collection_117: -1090859659
+      Room_Shop_Collection_27: 1552517391
+      Room_Shop_Collection_54: 962959328
+      Room_Shop_Collection_115: -238010228
+      Room_Shop_Collection_131: -1951958448
+      Room_Shop_Collection_185: -1886051546
+      Room_Shop_Collection_144: 713526712
+      Room_Shop_Collection_162: 1894584968
+      Room_Shop_Collection_10: -1224350349
+      Room_Shop_Collection_75: 703123701
+      Room_Shop_Collection_212: 870086405
+      Room_Shop_Collection_56: -920877756
+      Room_Shop_Collection_66: 1141489700
+      Room_Shop_Collection_151: -2041007655
+      Room_Shop_Collection_109: 1627701113
+      Room_Shop_Collection_94: -1253491539
+      Room_Shop_Collection_200: -2028431696
+      Room_Shop_Collection_133: 789504568
+      Room_Shop_Collection_230: -66497190
+      Room_Shop_Collection_122: -1829176725
+      Room_Shop_Collection_225: 106553797
+      Room_Shop_Collection_46: 448444167
+      Room_Shop_Collection_40: -1986397459
+      Room_Shop_Collection_121: 1790759469
+      Room_Shop_Collection_58: -151586351
+      Room_Shop_Collection_214: -1499555089
+      Room_Shop_Collection_57: -2113247645
+      Room_Shop_Collection_174: 1028332219
+      Room_Shop_Collection_107: 39629190
+      Room_Shop_Collection_77: 2058073452
+      Room_Shop_Collection_22: -2004903191
+      Room_Shop_Collection_141: -583795248
+      Room_Shop_Collection_11: -1843152109
+      Room_Shop_Collection_232: 2078684272
+      Room_Shop_Collection_180: -1644666980
+      Room_Shop_Collection_7: -442803008
+      Room_Shop_Collection_158: -1414630355
+      Room_Shop_Collection_36: 484745683
+      Room_Shop_Collection_234: -228195805
+      Room_Shop_Collection_243: 1470283398
+      Room_Shop_Collection_196: -2029173655
+      Room_Shop_Collection_51: 1704672687
+      Room_Shop_Collection_90: 334955889
+      Room_Shop_Collection_163: -1008086727
+      Room_Shop_Collection_179: -1453738315
+      Room_Shop_Collection_106: 1051211070
+      Room_Shop_Collection_238: -244263563
+      Room_Shop_Collection_241: -469314284
+      Room_Shop_Collection_198: 160789117
+      Room_Shop_Collection_93: 1170653615
+      Room_Shop_Collection_29: -922329753
+      Room_Shop_Collection_245: 1723741997
+      Room_Shop_Collection_136: 465658981
+      Room_Shop_Collection_37: 417814666
+      Room_Shop_Collection_4: 909307037
+      Room_Shop_Collection_164: 762079166
+      Room_Shop_Collection_139: -1817399874
+      Room_Shop_Collection_86: 1676660326
+      Room_Shop_Collection_85: 780936867
+      Room_Shop_Collection_177: -834479431
+      Room_Shop_Collection_192: 53880421
+      Room_Shop_Collection_44: 1406391659
+      Room_Shop_Collection_160: 334483876
+      Room_Shop_Collection_74: -1835211004
+      Room_Shop_Collection_156: -1135784378
+      Room_Shop_Collection_134: -312309873
+      Room_Shop_Collection_227: -962150845
+      Room_Shop_Collection_111: -372833075
+      Room_Shop_Collection_183: -2111078702
+      Room_Shop_Collection_1: -819065814
+      Room_Shop_Collection_41: -32576835
+      Room_Shop_Collection_195: -1019299589
+      Room_Shop_Collection_224: -623767051
+      Room_Shop_Collection_235: 1267295952
+      Room_Shop_Collection_239: -2084671208
+      Room_Shop_Collection_55: -1181009599
+      Room_Shop_Collection_98: -1941145073
+      Room_Shop_Collection_52: 1463618881
+      Room_Shop_Collection_92: -231201840
+      Room_Shop_Collection_129: -561294933
+      Room_Shop_Collection_95: 908035381
+      Room_Shop_Collection_87: -1031876994
+      Room_Shop_Collection_43: 183103125
+      Room_Shop_Collection_146: 1677208908
+      Room_Shop_Collection_233: -114095987
+      Room_Shop_Collection_16: 238983159
+      Room_Shop_Collection_218: -1639653549
+      Room_Shop_Collection_15: 1969568381
+      Room_Shop_Collection_126: 840886393
+      Room_Shop_Collection_242: -786063198
+      Room_Shop_Collection_128: 1633541826
+      Room_Shop_Collection_73: -2026347308
+      Room_Shop_Collection_154: 433030997
+      Room_Shop_Collection_246: -1243628376
+      Room_Shop_Collection_114: 1579090089
+      Room_Shop_Collection_105: 125256264
+      Room_Shop_Collection_14: 28786978
+      Room_Shop_Collection_78: 1482601207
+      Room_Shop_Collection_140: -349419091
+      Room_Shop_Collection_172: -146938417
+      Room_Shop_Collection_145: -695780977
+      Room_Shop_Collection_222: 884988711
+      Room_Shop_Collection_68: 389544704
+      Room_Shop_Collection_213: -644269967
+      Room_Shop_Collection_244: -335686614
+      Room_Shop_Collection_173: 573372634
+      Room_Shop_Collection_49: -525662511
+      Room_Shop_Collection_236: 589525782
+      Room_Shop_Collection_166: -137815017
+      Room_Shop_Collection_159: 481016058
+      Room_Shop_Collection_165: 838861394
+      Room_Shop_Collection_99: 721682078
+      Room_Shop_Collection_199: 1594386703
+      Room_Shop_Collection_21: 37427746
+      Room_Shop_Collection_88: -1557109648
+      Room_Shop_Collection_208: -214293346
+      Room_Shop_Collection_63: 1025404338
+      Room_Shop_Collection_110: -806194627
+      Room_Shop_Collection_209: -1167203058
+      Room_Shop_Collection_161: -1769191768
+      Room_Shop_Collection_221: -376564111
+      Room_Shop_Collection_150: -2142618711
+      Room_Shop_Collection_223: 1619907174
+      Room_Shop_Collection_53: 988764014
+      Room_Shop_Collection_65: -1171143659
+      Room_Shop_Collection_219: 1441319940
+      Room_Shop_Collection_119: 1771923257
+      Room_Shop_Collection_167: -294232982
+      Room_Shop_Collection_2: -670646453
+      Room_Shop_Collection_82: 1017701507
+      Room_Shop_Collection_108: 1907331456
+      Room_Shop_Collection_48: 1396108775
+      Room_Shop_Collection_125: -1457907357
+      Room_Shop_Collection_32: -1310767985
+      Room_Shop_Collection_101: -518946331
+      Room_Shop_Collection_153: -2141425141
+      Room_Shop_Collection_143: 724963557
+      Room_Shop_Collection_123: -479314757
+      Room_Shop_Collection_184: -229893115
+      Room_Shop_Collection_187: -2032636678
+      Room_Shop_Collection_33: 1052104574
+      Room_Shop_Collection_26: 1046430337
+      Room_Shop_Collection_197: 910684853
+      Room_Shop_Collection_186: -1707200841
+      Room_Shop_Collection_17: 156347786
+      Room_Shop_Collection_5: 1057683404
+      Room_Shop_Collection_216: -903034699
+      Room_Shop_Collection_96: -1313710040
+      Room_Shop_Collection_148: -999270401
+      Room_Shop_Collection_71: -1209399480
+      Room_Shop_Collection_39: 1150330978
+      Room_Shop_Collection_169: 658796883
+      Room_Shop_Collection_38: -85906309
+      Room_Shop_Collection_30: 422186496
+      Room_Shop_Collection_194: -448309603
+      Room_Shop_Collection_240: 243922410
+      Room_Shop_Collection_8: -993864348
+      Room_Shop_Collection_50: 1881897758
+      Room_Shop_Collection_24: -669945055
+      Room_Shop_Collection_137: 669437913
+      Room_Shop_Collection_69: 1780362625
+      Room_Shop_Collection_79: -1560945981
+      Room_Shop_Collection_193: -351058887
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

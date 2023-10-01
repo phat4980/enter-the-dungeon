@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPCs
+  - Hole
+  - Floor
+  - Door
+  - Character
+  - HiddenGround
+  - Block
+  - Choose
+  - Item
+  - Wall
+  - Weapon
+  - PlayerBullet
+  - EnemyBullet
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Battle
+  - Water
+  - UI
+  - Environment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hole
+    uniqueID: 3100516073
+    locked: 0
+  - name: Floor
+    uniqueID: 381040203
+    locked: 0
+  - name: Shadow
+    uniqueID: 2015274945
+    locked: 0
+  - name: Wall
+    uniqueID: 4115992843
+    locked: 0
+  - name: StaticObjectFloor
+    uniqueID: 2019754587
+    locked: 0
+  - name: Character_Object_Projectile
+    uniqueID: 4064858419
+    locked: 0
+  - name: Roof
+    uniqueID: 3103825055
+    locked: 0

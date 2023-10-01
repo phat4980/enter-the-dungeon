@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: BigLavaBottomLeft
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: a87aef134e81c584db0e41c5c91b0c0b, type: 3}
+  - {fileID: 21300000, guid: e0b94fec5710f354fbed5857b37c0d7d, type: 3}
+  - {fileID: 21300000, guid: 7bebbee3ec73c0b428b65a569be3d897, type: 3}
+  - {fileID: 21300000, guid: e6ff164ba7204ce47a7bf4658d8f5b94, type: 3}
+  - {fileID: 21300000, guid: 2484ad98bddd5a94ebea98eb4173f86c, type: 3}
+  - {fileID: 21300000, guid: a04dfa394a80754498c69c595f6115de, type: 3}
+  - {fileID: 21300000, guid: f3f7c4be81e175249bd6d4afba1d76c1, type: 3}
+  - {fileID: 21300000, guid: b96f305f4b3eaf745a35449fdc4eba05, type: 3}
+  m_MinSpeed: 6
+  m_MaxSpeed: 6
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 14
+  m_TileColliderType: 1

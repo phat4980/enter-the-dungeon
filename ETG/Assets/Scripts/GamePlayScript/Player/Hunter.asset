@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb48d4fa43550e34287bf197df2c6911, type: 3}
+  m_Name: Hunter
+  m_EditorClassIdentifier: 
+  HP: 3
+  Shield: 0
+  Blank: 2
+  SilverKey: 1
+  GoldKey: 0
+  Coin: 0
+  weapons:
+  - {fileID: 767004752343991959, guid: 0f5a06aa35c67834d9142cfd68589160, type: 3}
+  - {fileID: 542583034073563718, guid: f38ce70e2f1065d48bbea75f82cfd88d, type: 3}
+  items:
+  - {fileID: 0}

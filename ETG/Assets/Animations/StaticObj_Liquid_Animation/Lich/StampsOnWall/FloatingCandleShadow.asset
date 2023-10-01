@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: FloatingCandleShadow
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 4409626228854b5498721c0f9e4e9611, type: 3}
+  - {fileID: 21300000, guid: 0af616c11d712b7459c4969732de1038, type: 3}
+  - {fileID: 21300000, guid: 80ca6180788454e44900124a07d661b2, type: 3}
+  - {fileID: 21300000, guid: acf9d56856531e541baa4ad418517ae7, type: 3}
+  - {fileID: 21300000, guid: 0fe565584b11af5429a1f63975cf29cb, type: 3}
+  - {fileID: 21300000, guid: 20aac1beb304ded4896a2c0c868b1352, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: LavaHoleWallLight
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 1d331b90becab4d42ad1d45a2fe049af, type: 3}
+  - {fileID: 21300000, guid: 36ee655c6c0d6ec43bf720905279847c, type: 3}
+  - {fileID: 21300000, guid: 1a5d5523e67bb2c47adbed8c365ebb72, type: 3}
+  - {fileID: 21300000, guid: 51813f7e2d0cca4459b23a10417671a9, type: 3}
+  - {fileID: 21300000, guid: a5bc85c4539664c439a99b9320a81b5c, type: 3}
+  - {fileID: 21300000, guid: 8baefa75ef214ac4085097ee5bae88dd, type: 3}
+  - {fileID: 21300000, guid: 33d6b7cde94dd024dbfe9eeb8c220892, type: 3}
+  - {fileID: 21300000, guid: 56c00549c64ffc94eb4a07808a96bd81, type: 3}
+  m_MinSpeed: 6
+  m_MaxSpeed: 6
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1

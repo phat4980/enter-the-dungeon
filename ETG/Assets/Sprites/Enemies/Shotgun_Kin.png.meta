@@ -1,0 +1,3643 @@
+fileFormatVersion: 2
+guid: 2732857f5c312e04f9550ebbb4f0e962
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4405028e0c0c042886da0e591ca073
+      internalID: -707175046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 487
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af05716989c86d4fb3a26d5a6187101
+      internalID: 687588191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 487
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a43dc6ea2a7bde4d9129acb2582fb89
+      internalID: 664776056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 487
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ebd216c39c2ae4d99706c98cc2a69e
+      internalID: 1982800421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Idle00
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 488
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350727f0e356af842895248366d9d940
+      internalID: 581555821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Idle01
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 487
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b57ce01c6685f42a3160a423e1f5f2
+      internalID: -1358892572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Idle_Back00
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 487
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a0df35a621eb4982047f27f1db5c5
+      internalID: 1127975932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Idle_Back01
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 487
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784fdf3aa572d374faa9ed982b7f4b6f
+      internalID: 1899070984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Right_Front_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0201dbd820d4df34bae3cb0e2ba0b77f
+      internalID: 1133526895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Right_Front_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 443
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0bdf2115ee1cc4c93ad1941984d84e
+      internalID: -2089120545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Right_Front_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 443
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e08973045e0b1d47aa2a2879f024b1c
+      internalID: -802570077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Right_Front_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 443
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1600cfbc052d7b449cd9e0660695bd1
+      internalID: -1442049881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Right_Front_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 443
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25adace031ac494bbd54c7d0388d0f6
+      internalID: 1781011275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Right_Front_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 443
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0455ba90d52a149b6b7a27bff02f81
+      internalID: -1492507159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Left_Front_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 443
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0d247fca9b6ea4399fd4b947e4ce02
+      internalID: 648763634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Left_Front_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 443
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47ac0a52d5142c49b802ec6038c785e
+      internalID: 1092319801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Left_Front_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 443
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6672a05db353a144ab0c19cb10679669
+      internalID: -159426386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Left_Front_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 443
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afbabff4e7c2bb429f8f109bee73e17
+      internalID: -1488676867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Left_Front_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 443
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f1c9b680277374cb5c126339ad35b8
+      internalID: 125989202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 443
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12988906c8828c4cb880a7d9515a896
+      internalID: 1918584799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Right_Front_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 443
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293b86c7e7ff60b45982e2de77aeb876
+      internalID: -1735619670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Right_Front_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 443
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14adab2efb94a104682d64b769d3ddd2
+      internalID: -1544171702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Right_Front_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 443
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85804fb7e64478f499e2f488c6308d4f
+      internalID: -747431369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Right_Front_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 443
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a4e46902c25644fb2569dbe640d0a8
+      internalID: 1517194218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Right_Front_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 443
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d55c8dbbe596c478baee4e3d102861
+      internalID: -1412649648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Right_Front_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 443
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6064152078e5d4288901768ac8d63c
+      internalID: 122369693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Left_Front_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 443
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b9eb4e932ae4f4b9805a17d526d296
+      internalID: 373911281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Left_Front_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 443
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109c03bfd56107a45b8ba324aab7122e
+      internalID: -1925631797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Left_Front_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 443
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c8bb6d6152fa1448e70c4dd92701cd
+      internalID: 249256590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Left_Front_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 443
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31efe8c8769b80148bdf030430d64269
+      internalID: 737493323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Left_Front_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 443
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2af34024056bb408653f5f126b5d31
+      internalID: 1453820687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Left_Front_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 443
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110629ac0589c764289377f24be0b274
+      internalID: -1652794725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_LeftBack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4ae43153f041c48a2e3941d1485292
+      internalID: -2019951694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Left_Back_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 411
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87f77d5e2af80146af2f946ee3c86cd
+      internalID: 106398989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Left_Back_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 411
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e770b4c91610e154f9b17327e689e497
+      internalID: 256356122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Right_Back_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 412
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ecc2b2ec7fbbd4d89d7605aefe3f46
+      internalID: -813031348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Right_Back_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 411
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8675d9d126fa5be4b9393b4283509c18
+      internalID: 1084750045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Red_Walk_Right_Back_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 410
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb890cb379393c408371a64fa5772b7
+      internalID: -31749103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 411
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb345cc11b774a4e8985ad62a4ec286
+      internalID: -2084296155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 411
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efdc7012c4350046bfbcaa40c7d3692
+      internalID: 1159263452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 411
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9790ef1b0a9f524c85efe86323bafbd
+      internalID: 963626198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Left_Back_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 411
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b59aea655698a499f4e71d8ff01b60
+      internalID: -188322859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Left_Back_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 411
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189e47c17f788754faa4a78577720b98
+      internalID: 826546318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Left_Back_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 411
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfdd17cacd62c54e84e37b5fe098252
+      internalID: -1486416194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Right_Back_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 411
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33dbd5bcb9ba7145b882d9af0a758ba
+      internalID: -1016102476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Right_Back_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 411
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eff72ff7b1357146ab1a9e3a91be09c
+      internalID: -123264024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Blue_Walk_Right_Back_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 411
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01de97f6c3fcf84ab2dcb7b2fccb664
+      internalID: 1017257393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 411
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e06161373c6ec84383d1e1a9775ac6c
+      internalID: 1980927025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 411
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732d3a64820c95d48850a38c26261d16
+      internalID: -1296617951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 411
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1122a41f8a99640a72c72f33ffb754
+      internalID: 1428433637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Explode01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd37b9039bf342744a4d33074c4af55d
+      internalID: 1327918794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Spawn_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e546aed0e360345bcbd5746bc7769d
+      internalID: -1024551875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotgunKin_Spawn_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 368
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3279c38e8a6ede24e8bd7e81cad33f64
+      internalID: -1737269659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 314
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032d57e7f74815a4598ff069a74e75d9
+      internalID: 231348900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 367
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36312d72a058c334bb2a6a41b8342a04
+      internalID: -312994975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Explode02
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 314
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9dbad889bc2d24785bb46c7a22c024
+      internalID: -225293672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 368
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ec676e00048c94f9534e4063380b6c
+      internalID: 1126064243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Explode03
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 314
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8332de00062e71843b5b1f90c59cb5e5
+      internalID: -1066433485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 368
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72e649bbfa4f004781f6f2948e3c126
+      internalID: -1795462061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 368
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864836753356ff840893e2ceebcb430c
+      internalID: -933449715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Explode04
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 313
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71a2445930b793439639c531cf0d897
+      internalID: 446219521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Explode06
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 314
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b376dbf2b9dd1d449df57e10be4a8bc
+      internalID: 746966183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 368
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23237f5eae536634a8a05e1058079289
+      internalID: -238049049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 368
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c874c0bcab7027841b7b255f3af7e49e
+      internalID: 1582957424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Explode05
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 314
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919cce1795ee266488d89b06aa38c10b
+      internalID: -1789362754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 368
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb491937e615e04b943b454200d0fe2
+      internalID: 585239095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 368
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da422a16e9f7dc40af88b89772506fc
+      internalID: -1535271272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDeadthExplode1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 314
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2bc689060682a47ac8201d597d7da9
+      internalID: -1917868636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDeadthExplode0
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 314
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016733cfb2412f4180c328b4e436f42
+      internalID: 1647391238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 368
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0f5fc0ec4f0b647b8b0d6ef7e4fdcd
+      internalID: 1652913283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDeadthExplode2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 314
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97ebfba40abc274e883c2c8a9f3bca2
+      internalID: -964861839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 368
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cdfea060422254d8bbdb55c541f32e
+      internalID: -1276761227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 368
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfcbe7bc8c2d9746bb77f10502fd849
+      internalID: 1401958527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_116
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 368
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f38485d865b3f24e9519e5da636db34
+      internalID: 2130263075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_125
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 368
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68cf70e5ade33c4c88ecf3c3ae67647
+      internalID: -2063907755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_127
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 368
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f41a405862d8c49a32bc973d57c09f
+      internalID: 1660914729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_128
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 367
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5fa1f60d3a6164a9745de4840a2717
+      internalID: -527126091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_129
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 366
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cd6dba1a5178c4da5c9ed5c916b451
+      internalID: -1573244172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Fall00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d30df8c3e8f86489bef2da445ef805
+      internalID: -393672256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Fall01
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 274
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ea9dcb804a9f9448f4881f8c17ead8
+      internalID: 1131100481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Fall02
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 274
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6951a78c9b0e4ebea728d81139743
+      internalID: 1947478846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Fall03
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 274
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0313c82d95f292a44b1cb6c6a474049d
+      internalID: -546470297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Fall04
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 274
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b4a92c973a25349ba8547ce5af5749
+      internalID: 2054535973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFall1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 274
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab10882936b1414badf8917719f2e0c
+      internalID: -1526206008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFall2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 274
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff1926462e05f4c93febc4e4f189f6
+      internalID: 967112127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFall3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 274
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f170ea26d50782c41acf2e8f2df3257b
+      internalID: 1804298809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFall4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 274
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c2b3284033e6647a737cbe6882967c
+      internalID: 651385295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFall5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 274
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643392ce75073c448befaa967d1b92d
+      internalID: -2145495369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037afc0d234a61d4cbdda67351d3e49f
+      internalID: -1179211845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 233
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89208cc745bb70242b906a286930d9e2
+      internalID: -1829189280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 233
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c7944eaaba44e4d88e49765ab50d7a
+      internalID: -1515099242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 233
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d5ab6aea3abe34fb4185e5afe840d0
+      internalID: -1565965360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 233
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb108c7ea3eb9944aaba32fb5185290
+      internalID: 309536516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 233
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60d77d73d56c54448d8e650758a7b5b
+      internalID: -789492458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 233
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4780be7423c507c45be72ec2b22a0c19
+      internalID: 1320845252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 233
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e60f6e220afd6b4d9530e5bfa72c207
+      internalID: -1907240189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Back1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0e3ff5f1aad064b947f35f9c2b2079
+      internalID: 568193223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Back2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208a63aca084c2447b911f741d6a6834
+      internalID: 2076797802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Back3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d5433ad80250544826444f1c8335c7
+      internalID: 1176370627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Back4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 207
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceb6577860f2514d973b35b0565ff18
+      internalID: 1012663917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Back1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 207
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17268e0ef0a2f24a8026decdad8e0de
+      internalID: 253333590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Back2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 207
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eaf6f902571aa41a559fd2434744ac
+      internalID: 1560223577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Back3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1590bf2ae2c634c85f9e25158fc9da
+      internalID: -234297628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Back4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 207
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ce5c84d9857e047862d3de87b4adf0
+      internalID: 85155225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Left1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abb1ecdcb92a7f42ae9b7eb009b9db2
+      internalID: -2067809202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Left2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 180
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24311d78b2a77ba46a52f790c3998df9
+      internalID: 919415395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Left3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 180
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012aef7bd3c80b442a33413ffddd974e
+      internalID: -2093757072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Left4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 180
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2ecf208e0f6c045b2cea385e40466b
+      internalID: -1438762803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Left1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 180
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfd7d0c499948a4ca9218b3125046f0
+      internalID: 1842259176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Left2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 180
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac978ee47a45f224597072e342dbb663
+      internalID: -307385344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Left3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 180
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c182f46e7c6dc40acbdfacb75f44eb
+      internalID: 355915113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Left4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 180
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cccf370571fbca43ab45c6f277dece5
+      internalID: -2000091443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Right_Short00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3d634c95fc0eb419ec7453d771dd39
+      internalID: -1244364478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Right_Short01
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 150
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cf7a4bbab195942b59f9a0bc513300
+      internalID: -2115848551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Right_Short02
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 150
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9c2e5458a30ca47bc31e042e864590
+      internalID: 1068905892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Right_Short03
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 150
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812fb6299238c324ba5657391a016f8c
+      internalID: -372063009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Right_Short00
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 150
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5b7895fb2b0324bac2c0bbb46e1d76
+      internalID: -260558109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Right_Short01
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 150
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2c63f251ec30d4c87cce8778d5f073
+      internalID: 1821822801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Right_Short02
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 150
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2947ef89c5ef844ba45e1f7eb236ce2
+      internalID: 720718079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Right_Short03
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 150
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8209c4ded87f124b89d21a5b60ee830
+      internalID: 1076181900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Left_Short00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077d403435ede1843b24c4be60d18e21
+      internalID: -1154920926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Left_Short01
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 123
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd5c53050248c448ad1adc48b0e6e3c
+      internalID: -407099625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Left_Short02
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 123
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e4c5139976c8f498b1a14c7acbd8b1
+      internalID: 1834001415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Left_Short03
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 123
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417e552579133da48aa7cb152157c555
+      internalID: 797929025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Left_Short00
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 123
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac6f4300bd7e424c865852740aa3d7f
+      internalID: -14955247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Left_Short01
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 123
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fef8520a206bbc47a3d8df5e4320c84
+      internalID: 1932086934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Left_Short02
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 123
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2f335757d63544b84733f5d4b4bec0
+      internalID: 2052072942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Left_Short03
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 123
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f393dc21ab32f943999b984205c2acb
+      internalID: 1144686836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Right00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2b315ba6f6c9d47bcb0f1d5eb76382
+      internalID: -1468641414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Right01
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 93
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30d76dbf47962649a91e1f235f11b87
+      internalID: 1289360088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Right02
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced26041e113cf44bf2cc0fd6feba09
+      internalID: 1356510529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Right03
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 93
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de6031a12e102e499e317ca5d5f5cef
+      internalID: 379299275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Right04
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 93
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941974a091f95324493650b936e9d878
+      internalID: -1940029205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Right00
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 93
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885c5ecaedf5a40478445cd4627aec05
+      internalID: 993861699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Right01
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 93
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71f9e05bddaa524d933c6300a4c6069
+      internalID: 2145245361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Right02
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 93
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01fc43034b535640bcbc7de7a3f5cac
+      internalID: -1131351977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Right03
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 93
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1e396e2a75f84a92c302ea219f429
+      internalID: -974661363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Right04
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 93
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8f6ae425f584c41bba7539ea26ec31
+      internalID: 552930679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Left00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cf09b4f1b58fb40ae2c1f7ce59e8a5
+      internalID: -407818023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Left01
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 63
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605f2cdde9f6ccc41b505e4dd3c410f2
+      internalID: -995304176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Left02
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6066442a1ed65744bea339917bc73dc
+      internalID: -1058646250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Left03
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 63
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4bafd8f523a1941a01458250e8e41f
+      internalID: 1622849985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death_Front_Left04
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 63
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eae21eaddd566949b5a94e778d16632
+      internalID: 783308431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Left00
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 63
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2d771e647ed0f4dbc1cb5d2a8a1370
+      internalID: 1443016157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Left01
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 63
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ebf9253eab43048afe650af515c6d5
+      internalID: -678468905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Left02
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 63
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb1cd76649406a44af6d2006342b344
+      internalID: -357346755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Left03
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 63
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a159b22da7a5ccc43b1e16c14a51872a
+      internalID: 1904402523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death_Front_Left04
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 63
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0478e2d4a5c1443804c6b51206fa84
+      internalID: -1579352401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_242
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5fddacf02768342a00b71651a77515
+      internalID: 1003779831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_243
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 42
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b177c7ec5b1cb664b837d3dfc51aee06
+      internalID: 115160585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_244
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 42
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73db8c371dcaf044b58e17f350b4b75
+      internalID: -1365665534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_245
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 42
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee3cb89a43a49344a600467d868bcac
+      internalID: 225573702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse_Red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f11656ebe5d4648af91ea35be58ef7
+      internalID: -1777274722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse_Blue
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7237b5e1e8c54e44ea23f73ca9059c09
+      internalID: -52740151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_163: -1233692752
+      Red_Death_Front_Right_Short00: -1244364478
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_0: 1142667480
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_119: 671868621
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_82: -933449715
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_115: -1707964752
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_244: -1365665534
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_136: 390424321
+      ShotgunKin_Blue_Walk_Right_Front_4: 1517194218
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_251: 284248505
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_70: -312994975
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_113: 545360595
+      Blue_Death_Back1: 253333590
+      ShotgunKin_Red_Walk_Right_Front_2: -2089120545
+      Blue_Death_Front_Left04: -1579352401
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_151: -1817402500
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_167: 687901057
+      ShotgunKin_Red_Walk_Right_Back_3: -31749103
+      ShotgunKin_Red_Walk_Left_Back_2: 256356122
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_247: 1691617369
+      Corpse_Red: -1777274722
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_1: 833709387
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_103: 425953724
+      Blue_Death_Front2: -789492458
+      Blue_Death_Back2: 1560223577
+      ShotgunKin_Blue_Walk_Left_Front_4: 737493323
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_68: 1116672472
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_174: 1074409092
+      Red_Death_Front_Right01: 1289360088
+      Blue_Death_Front_Right00: 993861699
+      Blue_Death_Front_Right01: 2145245361
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_111: 2010949500
+      ShotgunKin_Red_Walk_Left_Front_4: -1488676867
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_83: 1036968759
+      Blue_Death_Front_Left_Short01: 1932086934
+      Red_Death_Explode06: 746966183
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_154: 2107793114
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_100: 242248167
+      Red_Death_Front_Right02: 1356510529
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_13: 150204443
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_48: -2084296155
+      Red_Death_Front_Right00: -1468641414
+      Blue_Death_Front_Left02: -357346755
+      ShotgunKin_Red_Idle_3: 664776056
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_170: -116225448
+      ShotgunKin_Red_Walk_Right_Front_3: -802570077
+      Red_Fall01: 1131100481
+      Red_Fall03: -546470297
+      ShotgunKin_Red_Walk_LeftBack_1: -2019951694
+      Red_Death_Explode02: -225293672
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_91: -238049049
+      Blue_Death_Front_Left01: -678468905
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_155: 1775255485
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_133: 1171255123
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_29: 1918584799
+      ShotgunKin_Red_Walk_Left_Front_5: 125989202
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_76: 270341867
+      Red_Death_Front_Left01: -995304176
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_158: -446497400
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_12: -701153257
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_128: -527126091
+      ShotgunKin_Red_Walk_Right_Front_1: 1133526895
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_177: -1298076588
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_101: -1657602492
+      Red_Fall02: 1947478846
+      BlueDeadthExplode1: -1917868636
+      Corpse_Blue: -52740151
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_130: 621312499
+      Red_Fall04: 2054535973
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_95: -1535271272
+      ShotgunKin_Blue_Walk_Left_Back_3: -1486416194
+      ShotgunKin_Blue_Walk_Right_Front_6: 122369693
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_255: 1222562078
+      ShotgunKin_Blue_Walk_Left_Front_2: -1925631797
+      ShotgunKin_Blue_Walk_Left_Front_6: -1652794725
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_79: -1980795853
+      Blue_Death_Front_Left_Short00: -14955247
+      Blue_Death_Front_Right03: -974661363
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_131: 1653371008
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_166: -1981165360
+      ShotgunKin_Red_Walk_Left_Front_3: -159426386
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_96: 1047423413
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_109: -1276761227
+      ShotgunKin_Blue_Walk_Left_Front_1: 373911281
+      Red_Death_Front_Right04: -1940029205
+      Red_Death_Left1: -2067809202
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_71: 1704042997
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_14: 1380981111
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_257: 1922309889
+      Red_Death_Front_Right_Short03: -372063009
+      Red_Death_Front_Left02: -1058646250
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_74: -202773457
+      Red_Death_Front_Right_Short01: -2115848551
+      Blue_Idle01: -1358892572
+      Blue_Death_Left1: 1842259176
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_86: -1703272722
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_15: 1104609637
+      ShotgunKin_Blue_Walk_Right_Back_2: -123264024
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_16: -197107921
+      Red_Death_Back3: 1176370627
+      Red_Death_Front_Left00: -407818023
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_65: 13522526
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_2: -1126915509
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_148: 884904128
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_124: 1293882055
+      ShotgunKin_Blue_Walk_Left_Back_1: -188322859
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_249: 402250293
+      Red_Death_Front3: -1565965360
+      Blue_Death_Left3: 355915113
+      Blue_Death_Front_Left_Short02: 2052072942
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_125: -2063907755
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_168: 436065091
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_3: -2090931657
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_50: 963626198
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_92: 1582957424
+      BlueFall1: -1526206008
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_248: 1338491899
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_164: -579805330
+      Blue_Death_Front_Right_Short02: 720718079
+      Blue_Death_Front_Left03: 1904402523
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_75: 1126064243
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_118: 670742514
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_122: -474318770
+      Red_Death_Front2: -1829189280
+      Blue_Death_Front_Right_Short00: -260558109
+      Red_Death_Front_Right_Short02: 1068905892
+      Red_Death_Front_Left_Short01: -407099625
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_137: -190381787
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_256: -2061567032
+      ShotgunKin_Blue_Walk_Right_Front_1: -1735619670
+      ShotgunKin_Blue_Walk_Right_Back_1: -1016102476
+      ShotgunKin_Blue_Walk_Right_Front_5: -1412649648
+      Red_Death_Front_Left04: 783308431
+      Blue_Death_Front4: 1320845252
+      Red_Death_Front1: -1179211845
+      ShotgunKin_Red_Walk_Right_Back_2: 1084750045
+      Blue_Idle00: 581555821
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_114: 1401958527
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_116: 2130263075
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_59: 1428433637
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_60: 1921582710
+      ShotgunKin_Red_Walk_Right_Front_4: -1442049881
+      ShotgunKin_Red_Walk_Left_Front_1: 648763634
+      ShotgunKin_Blue_Walk_Left_Back_2: 826546318
+      Red_Death_Back4: 1012663917
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_180: 726104309
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_132: -815788409
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_165: 1492690324
+      Red_Death_Explode03: -1066433485
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_160: 97013445
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_135: -1784530275
+      Blue_Idle_Back01: 1899070984
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_129: -1573244172
+      ShotgunKin_Blue_Walk_Left_Front_5: 1453820687
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_112: 1044732977
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_134: 1439483657
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_243: 115160585
+      ShotgunKin_Red_Walk_Left_Back_1: 106398989
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_64: -1420874373
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_80: -1795462061
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_123: -1722045025
+      ShotgunKin_Red_Walk_Right_Back_1: -813031348
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_152: -504524993
+      Red_Death_Left2: 919415395
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_246: -1559290407
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_150: 190526223
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_84: 1865992710
+      Blue_Death_Front_Right_Short03: 1076181900
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_104: 1652913283
+      Red_Death_Explode04: 446219521
+      ShotgunKin_Blue_Walk_Right_Back_3: 1017257393
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_153: 1981255997
+      Blue_Death_Left2: -307385344
+      Red_Death_Left4: -1438762803
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_108: 818178275
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_57: 1980927025
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_105: 1658206324
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_178: -1370752449
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_61: 1319365258
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_120: 382584518
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_260: -729799605
+      ShotgunKin_Red_Walk_Right_Front_6: -1492507159
+      Blue_Death_Front3: -1907240189
+      ShotgunKin_Red_Walk_Left_Front_2: 1092319801
+      Red_Death_Front4: -1515099242
+      Red_Death_Left3: -2093757072
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_250: 1561741114
+      Red_Death_Front_Right03: 379299275
+      Blue_Death_Front_Right_Short01: 1821822801
+      BlueFall5: -2145495369
+      ShotgunKin_Red_Idle_1: -707175046
+      Red_Death_Back1: 568193223
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_99: -59934434
+      ShotgunKin_Spawn_2: -1024551875
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_242: 1003779831
+      Red_Death_Explode05: -1789362754
+      Blue_Death_Left4: -2000091443
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_88: 1844992903
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_110: 2099981064
+      BlueFall2: 967112127
+      Blue_Death_Front1: 309536516
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_81: 1671926699
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_181: 325399697
+      ShotgunKin_Red_Idle_4: 1982800421
+      Blue_Death_Front_Right04: 552930679
+      Blue_Idle_Back00: 1127975932
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_169: 1766927497
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_245: 225573702
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_253: 1593296811
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_66: 604502550
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_94: 585239095
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_171: -1271061769
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_157: -2101776135
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_77: -423455688
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_58: -1296617951
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_98: -1378826552
+      Red_Fall00: -393672256
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_176: -844006688
+      Red_Death_Explode01: 1327918794
+      BlueDeadthExplode2: -964861839
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_179: -1259181821
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_127: 1660914729
+      BlueFall4: 651385295
+      Blue_Death_Front_Right02: -1131351977
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_254: -822204019
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_121: -1197877800
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_126: 1509555947
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_117: -1306973521
+      Red_Death_Front_Left_Short02: 1834001415
+      ShotgunKin_Spawn_1: -1737269659
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_17: 906308468
+      Blue_Death_Back4: 85155225
+      ShotgunKin_Blue_Walk_Right_Front_3: -747431369
+      Blue_Death_Front_Left00: 1443016157
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_162: -1549214154
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_159: 458718329
+      BlueDeadthExplode0: 1647391238
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_49: 1159263452
+      ShotgunKin_Red_Walk_Right_Front_5: 1781011275
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_172: -892941979
+      Red_Death_Front_Left_Short03: 797929025
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_252: -1745845464
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_149: 170040898
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_85: 2053133144
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_175: -1060992411
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_87: -20392642
+      ShotgunKin_Blue_Walk_Right_Front_2: -1544171702
+      Blue_Death_Front_Left_Short03: 1144686836
+      Red_Death_Front_Left_Short00: -1154920926
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_161: 698187410
+      BlueFall3: 1804298809
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_73: -1157279919
+      ShotgunKin_Red_Idle_2: 687588191
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_156: -1267175160
+      ShotgunKin_Blue_Walk_Left_Front_3: 249256590
+      Red_Death_Front_Left03: 1622849985
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_173: 1077865169
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_107: -1861157841
+      Red_Death_Back2: 2076797802
+      PC Computer - Enter the Gungeon - Shotgun Kin-sheet-sheet_69: 231348900
+      Blue_Death_Back3: -234297628
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

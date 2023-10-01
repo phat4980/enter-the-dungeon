@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: BigDeadLiquid1BottomRight
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 31f309ca290c7d44ea4820527245ea5a, type: 3}
+  - {fileID: 21300000, guid: 9b0ee91f4c9c66249b52201cb5c39b31, type: 3}
+  - {fileID: 21300000, guid: af42cc4a7b004e74e95ef671ba7c30e6, type: 3}
+  - {fileID: 21300000, guid: 8920b15a0bb845041884966a007bcc32, type: 3}
+  - {fileID: 21300000, guid: f1bb057c142de0846a5717ff246ea28f, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1

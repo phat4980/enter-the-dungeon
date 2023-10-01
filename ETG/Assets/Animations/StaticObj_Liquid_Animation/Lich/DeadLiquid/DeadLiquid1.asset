@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: DeadLiquid1
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: d38ec903c09237e489be834cd1166127, type: 3}
+  - {fileID: 21300000, guid: 2db4b329d43d6584caf9b61fbdf6d87f, type: 3}
+  - {fileID: 21300000, guid: 1e0d06e129999704e88f75bcb1e64292, type: 3}
+  - {fileID: 21300000, guid: ca09a5bc49563a445bc5636b360c5bbf, type: 3}
+  - {fileID: 21300000, guid: 73e9a9fb8b86cbf47975046648edfe5c, type: 3}
+  - {fileID: 21300000, guid: 0529130ef3cc2c1499da60f6cb576de8, type: 3}
+  - {fileID: 21300000, guid: ac45b2ab6cc270e4ea9b0e0133477db9, type: 3}
+  - {fileID: 21300000, guid: 705e12409d992864186a99d58801c0a1, type: 3}
+  - {fileID: 21300000, guid: 1150fb1027d9a05418a4e4ff649fa3ad, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: FlameFloatingCandle
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: ee7d03cdf9e0e49429cefaaccbf1cef5, type: 3}
+  - {fileID: 21300000, guid: 3159278ac2175ef4794bdc030d5f02ba, type: 3}
+  - {fileID: 21300000, guid: 9e55a64363274f14c89a98330706130b, type: 3}
+  - {fileID: 21300000, guid: cefa1ee8f6baae94f8c8152550789c24, type: 3}
+  - {fileID: 21300000, guid: 07b0f34f1cacc844ea8857924e2e4a7a, type: 3}
+  - {fileID: 21300000, guid: 6b5f4f8461f711c41821372d1a4008a1, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1

@@ -11,7 +11,7 @@ https://github.com/phat4980/enter-the-dungeon/assets/30680192/aa415400-749b-4dae
 
 ### Map
 - The Breach
-- 
+  
 ![Imgur](https://i.imgur.com/j7zxZ2n.png)
 - Chamber 1
 ![Imgur](https://i.imgur.com/TOt1IWS.png)

@@ -28,7 +28,7 @@ https://github.com/phat4980/enter-the-dungeon/assets/30680192/aa415400-749b-4dae
 
 ## Pre-requisites
 - Engine: Unity 2D (2022.1.13f1 Version) 
-- SFX tool: FMOD
+- SFX tool: FMOD (2.02.13 Version)
 
 ## Released
 Available in [itch.io](https://tplouis.itch.io/enter-the-dungeon)
